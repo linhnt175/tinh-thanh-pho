@@ -1615,113 +1615,34 @@
         "Id": "40",
         "Name": "Tỉnh Nghệ An",
         "Districts": [
-            {
-                "Id": "412",
-                "Name": "Thành phố Vinh",
-                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-vinh-tinh-nghe-an-2024"
-            },
-            {
-                "Id": "413",
-                "Name": "Thị xã Cửa Lò",
-                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thi-xa-cua-lo-tinh-nghe-an-2024"
-            },
-            {
-                "Id": "414",
-                "Name": "Thị xã Thái Hoà",
-                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thi-xa-thai-hoa-tinh-nghe-an-2024"
-            },
-            {
-                "Id": "415",
-                "Name": "Huyện Quế Phong",
-                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-que-phong-tinh-nghe-an-2024"
-            },
-            {
-                "Id": "416",
-                "Name": "Huyện Quỳ Châu",
-                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-quy-chau-tinh-nghe-an-2024"
-            },
-            {
-                "Id": "417",
-                "Name": "Huyện Kỳ Sơn",
-                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-ky-son-tinh-nghe-an-2024"
-            },
-            {
-                "Id": "418",
-                "Name": "Huyện Tương Dương",
-                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-tuong-duong-tinh-nghe-an-2024"
-            },
-            {
-                "Id": "419",
-                "Name": "Huyện Nghĩa Đàn",
-                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-nghia-dan-tinh-nghe-an-2024"
-            },
-            {
-                "Id": "420",
-                "Name": "Huyện Quỳ Hợp",
-                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-quy-hop-tinh-nghe-an-2024"
-            },
-            {
-                "Id": "421",
-                "Name": "Huyện Quỳnh Lưu",
-                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-quynh-luu-tinh-nghe-an-2024"
-            },
-            {
-                "Id": "422",
-                "Name": "Huyện Con Cuông",
-                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-con-cuong-tinh-nghe-an-2024"
-            },
-            {
-                "Id": "423",
-                "Name": "Huyện Tân Kỳ",
-                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-tan-ky-tinh-nghe-an-2024"
-            },
-            {
-                "Id": "424",
-                "Name": "Huyện Anh Sơn",
-                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-anh-son-tinh-nghe-an-2024"
-            },
-            {
-                "Id": "425",
-                "Name": "Huyện Diễn Châu",
-                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-dien-chau-tinh-nghe-an-2024"
-            },
-            {
-                "Id": "426",
-                "Name": "Huyện Yên Thành",
-                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-yen-thanh-tinh-nghe-an-2024"
-            },
+          
+            
+           
+            
+            
+           
+           
+           
+           
+           
+         
+           
+          
+          
+           
             {
                 "Id": "427",
                 "Name": "Tỉnh Nghệ An",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-tinh-nghe-an-2024"
             },
-            {
-                "Id": "428",
-                "Name": "Huyện Thanh Chương",
-                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-thanh-chuong-tinh-nghe-an-2024"
-            },
-            {
-                "Id": "429",
-                "Name": "Huyện Nghi Lộc",
-                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-nghi-loc-tinh-nghe-an-2024"
-            },
-            {
-                "Id": "430",
-                "Name": "Huyện Nam Đàn",
-                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-nam-dan-tinh-nghe-an-2024"
-            },
-            {
-                "Id": "431",
-                "Name": "Huyện Hưng Nguyên",
-                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-hung-nguyen-tinh-nghe-an-2024"
-            },
-            {
-                "Id": "432",
-                "Name": "Thị xã Hoàng Mai",
-                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thi-xa-hoang-mai-tinh-nghe-an-2024"
-            }
-        ]
-    },
+           
+           
+           
+          
+           
+            
+        
+   
     {
         "Id": "42",
         "Name": "Tỉnh Hà Tĩnh",

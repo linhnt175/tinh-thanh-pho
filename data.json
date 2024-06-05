@@ -165,12 +165,48 @@
                 "Name": "Thành phố Hà Giang",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-ha-giang-tinh-ha-giang-2024"
             },
-           
-           
-           
-          
-           
-           
+            {
+                "Id": "027",
+                "Name": "Huyện Mèo Vạc",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-meo-vac-tinh-ha-giang-2024"
+            },
+            {
+                "Id": "028",
+                "Name": "Huyện Yên Minh",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-yen-minh-tinh-ha-giang-2024"
+            },
+            {
+                "Id": "029",
+                "Name": "Huyện Quản Bạ",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-quan-ba-tinh-ha-giang-2024"
+            },
+            {
+                "Id": "030",
+                "Name": "Huyện Vị Xuyên",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-vi-xuyen-tinh-ha-giang-2024"
+            },
+            {
+                "Id": "032",
+                "Name": "Huyện Hoàng Su Phì",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-hoang-su-phi-tinh-ha-giang-2024"
+            },
+            {
+                "Id": "033",
+                "Name": "Huyện Xín Mần",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-xin-man-tinh-ha-giang-2024"
+            },
+            {
+                "Id": "034",
+                "Name": "Huyện Bắc Quang",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-bac-quang-tinh-ha-giang-2024"
+            },
+            {
+                "Id": "035",
+                "Name": "Huyện Quang Bình",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-quang-binh-tinh-ha-giang-2024"
+            }
+        ]
+    },
     {
         "Id": "04",
         "Name": "Tỉnh Cao Bằng",
@@ -180,7 +216,53 @@
                 "Name": "Thành phố Cao Bằng",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-cao-bang-tinh-cao-bang-2024"
             },
-           
+            {
+                "Id": "042",
+                "Name": "Huyện Bảo Lâm",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-bao-lam-tinh-cao-bang-2024"
+            },
+            {
+                "Id": "043",
+                "Name": "Huyện Bảo Lạc",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-bao-lac-tinh-cao-bang-2024"
+            },
+            {
+                "Id": "045",
+                "Name": "Huyện Hà Quảng",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-ha-quang-tinh-cao-bang-2024"
+            },
+            {
+                "Id": "047",
+                "Name": "Huyện Trùng Khánh",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-trung-khanh-tinh-cao-bang-2024"
+            },
+            {
+                "Id": "048",
+                "Name": "Huyện Hạ Lang",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-ha-lang-tinh-cao-bang-2024"
+            },
+            {
+                "Id": "049",
+                "Name": "Huyện Quảng Hòa",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-quang-hoa-tinh-cao-bang-2024"
+            },
+            {
+                "Id": "051",
+                "Name": "Huyện Hoà An",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-hoa-an-tinh-cao-bang-2024"
+            },
+            {
+                "Id": "052",
+                "Name": "Huyện Nguyên Bình",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-nguyen-binh-tinh-cao-bang-2024"
+            },
+            {
+                "Id": "053",
+                "Name": "Huyện Thạch An",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-thach-an-tinh-cao-bang-2024"
+            }
+        ]
+    },
     {
         "Id": "06",
         "Name": "Tỉnh Bắc Kạn",
@@ -190,7 +272,43 @@
                 "Name": "Thành Phố Bắc Kạn",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-bac-kan-tinh-bac-kan-2024"
             },
-           
+            {
+                "Id": "060",
+                "Name": "Huyện Pác Nặm",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-pac-nam-tinh-bac-kan-2024"
+            },
+            {
+                "Id": "061",
+                "Name": "Huyện Ba Bể",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-ba-be-tinh-bac-kan-2024"
+            },
+            {
+                "Id": "062",
+                "Name": "Huyện Ngân Sơn",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-ngan-son-tinh-bac-kan-2024"
+            },
+            {
+                "Id": "063",
+                "Name": "Huyện Bạch Thông",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-bach-thong-tinh-bac-kan-2024"
+            },
+            {
+                "Id": "064",
+                "Name": "Huyện Chợ Đồn",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-cho-don-tinh-bac-kan-2024"
+            },
+            {
+                "Id": "065",
+                "Name": "Huyện Chợ Mới",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-cho-moi-tinh-bac-kan-2024"
+            },
+            {
+                "Id": "066",
+                "Name": "Huyện Na Rì",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-na-ri-tinh-bac-kan-2024"
+            }
+        ]
+    },
     {
         "Id": "08",
         "Name": "Tỉnh Tuyên Quang",
@@ -200,8 +318,38 @@
                 "Name": "Thành phố Tuyên Quang",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-tuyen-quang-tinh-tuyen-quang-2024"
             },
-           
-          
+            {
+                "Id": "071",
+                "Name": "Huyện Lâm Bình",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-lam-binh-tinh-tuyen-quang-2024"
+            },
+            {
+                "Id": "072",
+                "Name": "Huyện Na Hang",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-na-hang-tinh-tuyen-quang-2024"
+            },
+            {
+                "Id": "073",
+                "Name": "Huyện Chiêm Hóa",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-chiem-hoa-tinh-tuyen-quang-2024"
+            },
+            {
+                "Id": "074",
+                "Name": "Huyện Hàm Yên",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-ham-yen-tinh-tuyen-quang-2024"
+            },
+            {
+                "Id": "075",
+                "Name": "Huyện Yên Sơn",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-yen-son-tinh-tuyen-quang-2024"
+            },
+            {
+                "Id": "076",
+                "Name": "Huyện Sơn Dương",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-son-duong-tinh-tuyen-quang-2024"
+            }
+        ]
+    },
     {
         "Id": "10",
         "Name": "Tỉnh Lào Cai",
@@ -211,7 +359,48 @@
                 "Name": "Thành phố Lào Cai",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-lao-cai-tinh-lao-cai-2024"
             },
-          
+            {
+                "Id": "082",
+                "Name": "Huyện Bát Xát",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-bat-xat-tinh-lao-cai-2024"
+            },
+            {
+                "Id": "083",
+                "Name": "Huyện Mường Khương",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-muong-khuong-tinh-lao-cai-2024"
+            },
+            {
+                "Id": "084",
+                "Name": "Huyện Si Ma Cai",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-si-ma-cai-tinh-lao-cai-2024"
+            },
+            {
+                "Id": "085",
+                "Name": "Huyện Bắc Hà",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-bac-ha-tinh-lao-cai-2024"
+            },
+            {
+                "Id": "086",
+                "Name": "Huyện Bảo Thắng",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-bao-thang-tinh-lao-cai-2024"
+            },
+            {
+                "Id": "087",
+                "Name": "Huyện Bảo Yên",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-bao-yen-tinh-lao-cai-2024"
+            },
+            {
+                "Id": "088",
+                "Name": "Thị xã Sa Pa",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thi-xa-sa-pa-tinh-lao-cai-2024"
+            },
+            {
+                "Id": "089",
+                "Name": "Huyện Văn Bàn",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-van-ban-tinh-lao-cai-2024"
+            }
+        ]
+    },
     {
         "Id": "11",
         "Name": "Tỉnh Điện Biên",
@@ -221,7 +410,53 @@
                 "Name": "Thành phố Điện Biên Phủ",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-dien-bien-phu-tinh-dien-bien-2024"
             },
-           
+            {
+                "Id": "095",
+                "Name": "Thị Xã Mường Lay",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thi-xa-muong-lay-tinh-dien-bien-2024"
+            },
+            {
+                "Id": "096",
+                "Name": "Huyện Mường Nhé",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-muong-nhe-tinh-dien-bien-2024"
+            },
+            {
+                "Id": "097",
+                "Name": "Huyện Mường Chà",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-muong-cha-tinh-dien-bien-2024"
+            },
+            {
+                "Id": "098",
+                "Name": "Huyện Tủa Chùa",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-tua-chua-tinh-dien-bien-2024"
+            },
+            {
+                "Id": "099",
+                "Name": "Huyện Tuần Giáo",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-tuan-giao-tinh-dien-bien-2024"
+            },
+            {
+                "Id": "100",
+                "Name": "Huyện Điện Biên",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-dien-bien-tinh-dien-bien-2024"
+            },
+            {
+                "Id": "101",
+                "Name": "Huyện Điện Biên Đông",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-dien-bien-dong-tinh-dien-bien-2024"
+            },
+            {
+                "Id": "102",
+                "Name": "Huyện Mường Ảng",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-muong-ang-tinh-dien-bien-2024"
+            },
+            {
+                "Id": "103",
+                "Name": "Huyện Nậm Pồ",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-nam-po-tinh-dien-bien-2024"
+            }
+        ]
+    },
     {
         "Id": "12",
         "Name": "Tỉnh Lai Châu",
@@ -231,7 +466,43 @@
                 "Name": "Thành phố Lai Châu",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-lai-chau-tinh-lai-chau-2024"
             },
-            
+            {
+                "Id": "106",
+                "Name": "Huyện Tam Đường",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-tam-duong-tinh-lai-chau-2024"
+            },
+            {
+                "Id": "107",
+                "Name": "Huyện Mường Tè",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-muong-te-tinh-lai-chau-2024"
+            },
+            {
+                "Id": "108",
+                "Name": "Huyện Sìn Hồ",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-sin-ho-tinh-lai-chau-2024"
+            },
+            {
+                "Id": "109",
+                "Name": "Huyện Phong Thổ",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-phong-tho-tinh-lai-chau-2024"
+            },
+            {
+                "Id": "110",
+                "Name": "Huyện Than Uyên",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-than-uyen-tinh-lai-chau-2024"
+            },
+            {
+                "Id": "111",
+                "Name": "Huyện Tân Uyên",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-tan-uyen-tinh-lai-chau-2024"
+            },
+            {
+                "Id": "112",
+                "Name": "Huyện Nậm Nhùn",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-nam-nhun-tinh-lai-chau-2024"
+            }
+        ]
+    },
     {
         "Id": "14",
         "Name": "Tỉnh Sơn La",
@@ -241,7 +512,63 @@
                 "Name": "Thành phố Sơn La",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-son-la-tinh-son-la-2024"
             },
-           
+            {
+                "Id": "118",
+                "Name": "Huyện Quỳnh Nhai",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-quynh-nhai-tinh-son-la-2024"
+            },
+            {
+                "Id": "119",
+                "Name": "Huyện Thuận Châu",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-thuan-chau-tinh-son-la-2024"
+            },
+            {
+                "Id": "120",
+                "Name": "Huyện Mường La",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-muong-la-tinh-son-la-2024"
+            },
+            {
+                "Id": "121",
+                "Name": "Huyện Bắc Yên",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-bac-yen-tinh-son-la-2024"
+            },
+            {
+                "Id": "122",
+                "Name": "Huyện Phù Yên",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-phu-yen-tinh-son-la-2024"
+            },
+            {
+                "Id": "123",
+                "Name": "Huyện Mộc Châu",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-moc-chau-tinh-son-la-2024"
+            },
+            {
+                "Id": "124",
+                "Name": "Huyện Yên Châu",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-yen-chau-tinh-son-la-2024"
+            },
+            {
+                "Id": "125",
+                "Name": "Huyện Mai Sơn",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-mai-son-tinh-son-la-2024"
+            },
+            {
+                "Id": "126",
+                "Name": "Huyện Sông Mã",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-song-ma-tinh-son-la-2024"
+            },
+            {
+                "Id": "127",
+                "Name": "Huyện Sốp Cộp",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-sop-cop-tinh-son-la-2024"
+            },
+            {
+                "Id": "128",
+                "Name": "Huyện Vân Hồ",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-van-ho-tinh-son-la-2024"
+            }
+        ]
+    },
     {
         "Id": "15",
         "Name": "Tỉnh Yên Bái",
@@ -251,7 +578,48 @@
                 "Name": "Thành phố Yên Bái",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-yen-bai-tinh-yen-bai-2024"
             },
-          
+            {
+                "Id": "133",
+                "Name": "Thị xã Nghĩa Lộ",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thi-xa-nghia-lo-tinh-yen-bai-2024"
+            },
+            {
+                "Id": "135",
+                "Name": "Huyện Lục Yên",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-luc-yen-tinh-yen-bai-2024"
+            },
+            {
+                "Id": "136",
+                "Name": "Huyện Văn Yên",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-van-yen-tinh-yen-bai-2024"
+            },
+            {
+                "Id": "137",
+                "Name": "Huyện Mù Căng Chải",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-mu-cang-chai-tinh-yen-bai-2024"
+            },
+            {
+                "Id": "138",
+                "Name": "Huyện Trấn Yên",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-tran-yen-tinh-yen-bai-2024"
+            },
+            {
+                "Id": "139",
+                "Name": "Huyện Trạm Tấu",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-tram-tau-tinh-yen-bai-2024"
+            },
+            {
+                "Id": "140",
+                "Name": "Huyện Văn Chấn",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-van-chan-tinh-yen-bai-2024"
+            },
+            {
+                "Id": "141",
+                "Name": "Huyện Yên Bình",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-yen-binh-tinh-yen-bai-2024"
+            }
+        ]
+    },
     {
         "Id": "17",
         "Name": "Tỉnh Hoà Bình",
@@ -261,7 +629,53 @@
                 "Name": "Thành phố Hòa Bình",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-hoa-binh-tinh-hoa-binh-2024"
             },
-           
+            {
+                "Id": "150",
+                "Name": "Huyện Đà Bắc",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-da-bac-tinh-hoa-binh-2024"
+            },
+            {
+                "Id": "152",
+                "Name": "Huyện Lương Sơn",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-luong-son-tinh-hoa-binh-2024"
+            },
+            {
+                "Id": "153",
+                "Name": "Huyện Kim Bôi",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-kim-boi-tinh-hoa-binh-2024"
+            },
+            {
+                "Id": "154",
+                "Name": "Huyện Cao Phong",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-cao-phong-tinh-hoa-binh-2024"
+            },
+            {
+                "Id": "155",
+                "Name": "Huyện Tân Lạc",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-tan-lac-tinh-hoa-binh-2024"
+            },
+            {
+                "Id": "156",
+                "Name": "Huyện Mai Châu",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-mai-chau-tinh-hoa-binh-2024"
+            },
+            {
+                "Id": "157",
+                "Name": "Huyện Lạc Sơn",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-lac-son-tinh-hoa-binh-2024"
+            },
+            {
+                "Id": "158",
+                "Name": "Huyện Yên Thủy",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-yen-thuy-tinh-hoa-binh-2024"
+            },
+            {
+                "Id": "159",
+                "Name": "Huyện Lạc Thủy",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-lac-thuy-tinh-hoa-binh-2024"
+            }
+        ]
+    },
     {
         "Id": "19",
         "Name": "Tỉnh Thái Nguyên",
@@ -271,7 +685,48 @@
                 "Name": "Thành phố Thái Nguyên",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-thai-nguyen-tinh-thai-nguyen-2024"
             },
-           
+            {
+                "Id": "165",
+                "Name": "Thành phố Sông Công",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-song-cong-tinh-thai-nguyen-2024"
+            },
+            {
+                "Id": "167",
+                "Name": "Huyện Định Hóa",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-dinh-hoa-tinh-thai-nguyen-2024"
+            },
+            {
+                "Id": "168",
+                "Name": "Huyện Phú Lương",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-phu-luong-tinh-thai-nguyen-2024"
+            },
+            {
+                "Id": "169",
+                "Name": "Huyện Đồng Hỷ",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-dong-hy-tinh-thai-nguyen-2024"
+            },
+            {
+                "Id": "170",
+                "Name": "Huyện Võ Nhai",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-vo-nhai-tinh-thai-nguyen-2024"
+            },
+            {
+                "Id": "171",
+                "Name": "Huyện Đại Từ",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-dai-tu-tinh-thai-nguyen-2024"
+            },
+            {
+                "Id": "172",
+                "Name": "Thị xã Phổ Yên",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thi-xa-pho-yen-tinh-thai-nguyen-2024"
+            },
+            {
+                "Id": "173",
+                "Name": "Huyện Phú Bình",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-phu-binh-tinh-thai-nguyen-2024"
+            }
+        ]
+    },
     {
         "Id": "20",
         "Name": "Tỉnh Lạng Sơn",
@@ -281,7 +736,58 @@
                 "Name": "Thành phố Lạng Sơn",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-lang-son-tinh-lang-son-2024"
             },
-           
+            {
+                "Id": "180",
+                "Name": "Huyện Tràng Định",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-trang-dinh-tinh-lang-son-2024"
+            },
+            {
+                "Id": "181",
+                "Name": "Huyện Bình Gia",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-binh-gia-tinh-lang-son-2024"
+            },
+            {
+                "Id": "182",
+                "Name": "Huyện Văn Lãng",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-van-lang-tinh-lang-son-2024"
+            },
+            {
+                "Id": "183",
+                "Name": "Huyện Cao Lộc",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-cao-loc-tinh-lang-son-2024"
+            },
+            {
+                "Id": "184",
+                "Name": "Huyện Văn Quan",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-van-quan-tinh-lang-son-2024"
+            },
+            {
+                "Id": "185",
+                "Name": "Huyện Bắc Sơn",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-bac-son-tinh-lang-son-2024"
+            },
+            {
+                "Id": "186",
+                "Name": "Huyện Hữu Lũng",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-huu-lung-tinh-lang-son-2024"
+            },
+            {
+                "Id": "187",
+                "Name": "Huyện Chi Lăng",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-chi-lang-tinh-lang-son-2024"
+            },
+            {
+                "Id": "188",
+                "Name": "Huyện Lộc Bình",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-loc-binh-tinh-lang-son-2024"
+            },
+            {
+                "Id": "189",
+                "Name": "Huyện Đình Lập",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-dinh-lap-tinh-lang-son-2024"
+            }
+        ]
+    },
     {
         "Id": "22",
         "Name": "Tỉnh Quảng Ninh",
@@ -291,7 +797,68 @@
                 "Name": "Thành phố Hạ Long",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-ha-long-tinh-quang-ninh-2024"
             },
-           
+            {
+                "Id": "194",
+                "Name": "Thành phố Móng Cái",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-mong-cai-tinh-quang-ninh-2024"
+            },
+            {
+                "Id": "195",
+                "Name": "Thành phố Cẩm Phả",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-cam-pha-tinh-quang-ninh-2024"
+            },
+            {
+                "Id": "196",
+                "Name": "Thành phố Uông Bí",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-uong-bi-tinh-quang-ninh-2024"
+            },
+            {
+                "Id": "198",
+                "Name": "Huyện Bình Liêu",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-binh-lieu-tinh-quang-ninh-2024"
+            },
+            {
+                "Id": "199",
+                "Name": "Huyện Tiên Yên",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-tien-yen-tinh-quang-ninh-2024"
+            },
+            {
+                "Id": "200",
+                "Name": "Huyện Đầm Hà",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-dam-ha-tinh-quang-ninh-2024"
+            },
+            {
+                "Id": "201",
+                "Name": "Huyện Hải Hà",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-hai-ha-tinh-quang-ninh-2024"
+            },
+            {
+                "Id": "202",
+                "Name": "Huyện Ba Chẽ",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-ba-che-tinh-quang-ninh-2024"
+            },
+            {
+                "Id": "203",
+                "Name": "Huyện Vân Đồn",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-van-don-tinh-quang-ninh-2024"
+            },
+            {
+                "Id": "205",
+                "Name": "Thị xã Đông Triều",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thi-xa-dong-trieu-tinh-quang-ninh-2024"
+            },
+            {
+                "Id": "206",
+                "Name": "Thị xã Quảng Yên",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thi-xa-quang-yen-tinh-quang-ninh-2024"
+            },
+            {
+                "Id": "207",
+                "Name": "Huyện Cô Tô",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-co-to-tinh-quang-ninh-2024"
+            }
+        ]
+    },
     {
         "Id": "24",
         "Name": "Tỉnh Bắc Giang",
@@ -301,7 +868,53 @@
                 "Name": "Thành phố Bắc Giang",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-bac-giang-tinh-bac-giang-2024"
             },
-            
+            {
+                "Id": "215",
+                "Name": "Huyện Yên Thế",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-yen-the-tinh-bac-giang-2024"
+            },
+            {
+                "Id": "216",
+                "Name": "Huyện Tân Yên",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-tan-yen-tinh-bac-giang-2024"
+            },
+            {
+                "Id": "217",
+                "Name": "Huyện Lạng Giang",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-lang-giang-tinh-bac-giang-2024"
+            },
+            {
+                "Id": "218",
+                "Name": "Huyện Lục Nam",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-luc-nam-tinh-bac-giang-2024"
+            },
+            {
+                "Id": "219",
+                "Name": "Huyện Lục Ngạn",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-luc-ngan-tinh-bac-giang-2024"
+            },
+            {
+                "Id": "220",
+                "Name": "Huyện Sơn Động",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-son-dong-tinh-bac-giang-2024"
+            },
+            {
+                "Id": "221",
+                "Name": "Huyện Yên Dũng",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-yen-dung-tinh-bac-giang-2024"
+            },
+            {
+                "Id": "222",
+                "Name": "Huyện Việt Yên",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-viet-yen-tinh-bac-giang-2024"
+            },
+            {
+                "Id": "223",
+                "Name": "Huyện Hiệp Hòa",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-hiep-hoa-tinh-bac-giang-2024"
+            }
+        ]
+    },
     {
         "Id": "25",
         "Name": "Tỉnh Phú Thọ",
@@ -311,7 +924,68 @@
                 "Name": "Thành phố Việt Trì",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-viet-tri-tinh-phu-tho-2024"
             },
-           
+            {
+                "Id": "228",
+                "Name": "Thị xã Phú Thọ",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thi-xa-phu-tho-tinh-phu-tho-2024"
+            },
+            {
+                "Id": "230",
+                "Name": "Huyện Đoan Hùng",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-doan-hung-tinh-phu-tho-2024"
+            },
+            {
+                "Id": "231",
+                "Name": "Huyện Hạ Hoà",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-ha-hoa-tinh-phu-tho-2024"
+            },
+            {
+                "Id": "232",
+                "Name": "Huyện Thanh Ba",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-thanh-ba-tinh-phu-tho-2024"
+            },
+            {
+                "Id": "233",
+                "Name": "Huyện Phù Ninh",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-phu-ninh-tinh-phu-tho-2024"
+            },
+            {
+                "Id": "234",
+                "Name": "Huyện Yên Lập",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-yen-lap-tinh-phu-tho-2024"
+            },
+            {
+                "Id": "235",
+                "Name": "Huyện Cẩm Khê",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-cam-khe-tinh-phu-tho-2024"
+            },
+            {
+                "Id": "236",
+                "Name": "Huyện Tam Nông",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-tam-nong-tinh-phu-tho-2024"
+            },
+            {
+                "Id": "237",
+                "Name": "Huyện Lâm Thao",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-lam-thao-tinh-phu-tho-2024"
+            },
+            {
+                "Id": "238",
+                "Name": "Huyện Thanh Sơn",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-thanh-son-tinh-phu-tho-2024"
+            },
+            {
+                "Id": "239",
+                "Name": "Huyện Thanh Thuỷ",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-thanh-thuy-tinh-phu-tho-2024"
+            },
+            {
+                "Id": "240",
+                "Name": "Huyện Tân Sơn",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-tan-son-tinh-phu-tho-2024"
+            }
+        ]
+    },
     {
         "Id": "26",
         "Name": "Tỉnh Vĩnh Phúc",
@@ -321,7 +995,48 @@
                 "Name": "Thành phố Vĩnh Yên",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-vinh-yen-tinh-vinh-phuc-2024"
             },
-           
+            {
+                "Id": "244",
+                "Name": "Thành phố Phúc Yên",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-phuc-yen-tinh-vinh-phuc-2024"
+            },
+            {
+                "Id": "246",
+                "Name": "Huyện Lập Thạch",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-lap-thach-tinh-vinh-phuc-2024"
+            },
+            {
+                "Id": "247",
+                "Name": "Huyện Tam Dương",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-tam-duong-tinh-vinh-phuc-2024"
+            },
+            {
+                "Id": "248",
+                "Name": "Huyện Tam Đảo",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-tam-dao-tinh-vinh-phuc-2024"
+            },
+            {
+                "Id": "249",
+                "Name": "Huyện Bình Xuyên",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-binh-xuyen-tinh-vinh-phuc-2024"
+            },
+            {
+                "Id": "251",
+                "Name": "Huyện Yên Lạc",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-yen-lac-tinh-vinh-phuc-2024"
+            },
+            {
+                "Id": "252",
+                "Name": "Huyện Vĩnh Tường",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-vinh-tuong-tinh-vinh-phuc-2024"
+            },
+            {
+                "Id": "253",
+                "Name": "Huyện Sông Lô",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-song-lo-tinh-vinh-phuc-2024"
+            }
+        ]
+    },
     {
         "Id": "27",
         "Name": "Tỉnh Bắc Ninh",
@@ -331,7 +1046,43 @@
                 "Name": "Thành phố Bắc Ninh",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-bac-ninh-tinh-bac-ninh-2024"
             },
-           
+            {
+                "Id": "258",
+                "Name": "Huyện Yên Phong",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-yen-phong-tinh-bac-ninh-2024"
+            },
+            {
+                "Id": "259",
+                "Name": "Huyện Quế Võ",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-que-vo-tinh-bac-ninh-2024"
+            },
+            {
+                "Id": "260",
+                "Name": "Huyện Tiên Du",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-tien-du-tinh-bac-ninh-2024"
+            },
+            {
+                "Id": "261",
+                "Name": "Thị xã Từ Sơn",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thi-xa-tu-son-tinh-bac-ninh-2024"
+            },
+            {
+                "Id": "262",
+                "Name": "Huyện Thuận Thành",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-thuan-thanh-tinh-bac-ninh-2024"
+            },
+            {
+                "Id": "263",
+                "Name": "Huyện Gia Bình",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-gia-binh-tinh-bac-ninh-2024"
+            },
+            {
+                "Id": "264",
+                "Name": "Huyện Lương Tài",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-luong-tai-tinh-bac-ninh-2024"
+            }
+        ]
+    },
     {
         "Id": "30",
         "Name": "Tỉnh Hải Dương",
@@ -341,7 +1092,63 @@
                 "Name": "Thành phố Hải Dương",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-hai-duong-tinh-hai-duong-2024"
             },
-         
+            {
+                "Id": "290",
+                "Name": "Thành phố Chí Linh",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-chi-linh-tinh-hai-duong-2024"
+            },
+            {
+                "Id": "291",
+                "Name": "Huyện Nam Sách",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-nam-sach-tinh-hai-duong-2024"
+            },
+            {
+                "Id": "292",
+                "Name": "Thị xã Kinh Môn",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thi-xa-kinh-mon-tinh-hai-duong-2024"
+            },
+            {
+                "Id": "293",
+                "Name": "Huyện Kim Thành",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-kim-thanh-tinh-hai-duong-2024"
+            },
+            {
+                "Id": "294",
+                "Name": "Huyện Thanh Hà",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-thanh-ha-tinh-hai-duong-2024"
+            },
+            {
+                "Id": "295",
+                "Name": "Huyện Cẩm Giàng",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-cam-giang-tinh-hai-duong-2024"
+            },
+            {
+                "Id": "296",
+                "Name": "Huyện Bình Giang",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-binh-giang-tinh-hai-duong-2024"
+            },
+            {
+                "Id": "297",
+                "Name": "Huyện Gia Lộc",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-gia-loc-tinh-hai-duong-2024"
+            },
+            {
+                "Id": "298",
+                "Name": "Huyện Tứ Kỳ",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-tu-ky-tinh-hai-duong-2024"
+            },
+            {
+                "Id": "299",
+                "Name": "Huyện Ninh Giang",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-ninh-giang-tinh-hai-duong-2024"
+            },
+            {
+                "Id": "300",
+                "Name": "Huyện Thanh Miện",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-thanh-mien-tinh-hai-duong-2024"
+            }
+        ]
+    },
     {
         "Id": "31",
         "Name": "Thành phố Hải Phòng",
@@ -351,7 +1158,78 @@
                 "Name": "Quận Hồng Bàng",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-quan-hong-bang-thanh-pho-hai-phong-2024"
             },
-           
+            {
+                "Id": "304",
+                "Name": "Quận Ngô Quyền",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-quan-ngo-quyen-thanh-pho-hai-phong-2024"
+            },
+            {
+                "Id": "305",
+                "Name": "Quận Lê Chân",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-quan-le-chan-thanh-pho-hai-phong-2024"
+            },
+            {
+                "Id": "306",
+                "Name": "Quận Hải An",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-quan-hai-an-thanh-pho-hai-phong-2024"
+            },
+            {
+                "Id": "307",
+                "Name": "Quận Kiến An",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-quan-kien-an-thanh-pho-hai-phong-2024"
+            },
+            {
+                "Id": "308",
+                "Name": "Quận Đồ Sơn",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-quan-do-son-thanh-pho-hai-phong-2024"
+            },
+            {
+                "Id": "309",
+                "Name": "Quận Dương Kinh",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-quan-duong-kinh-thanh-pho-hai-phong-2024"
+            },
+            {
+                "Id": "311",
+                "Name": "Huyện Thuỷ Nguyên",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-thuy-nguyen-thanh-pho-hai-phong-2024"
+            },
+            {
+                "Id": "312",
+                "Name": "Huyện An Dương",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-an-duong-thanh-pho-hai-phong-2024"
+            },
+            {
+                "Id": "313",
+                "Name": "Huyện An Lão",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-an-lao-thanh-pho-hai-phong-2024"
+            },
+            {
+                "Id": "314",
+                "Name": "Huyện Kiến Thuỵ",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-kien-thuy-thanh-pho-hai-phong-2024"
+            },
+            {
+                "Id": "315",
+                "Name": "Huyện Tiên Lãng",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-tien-lang-thanh-pho-hai-phong-2024"
+            },
+            {
+                "Id": "316",
+                "Name": "Huyện Vĩnh Bảo",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-vinh-bao-thanh-pho-hai-phong-2024"
+            },
+            {
+                "Id": "317",
+                "Name": "Huyện Cát Hải",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-cat-hai-thanh-pho-hai-phong-2024"
+            },
+            {
+                "Id": "318",
+                "Name": "Huyện Bạch Long Vĩ",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-bach-long-vi-thanh-pho-hai-phong-2024"
+            }
+        ]
+    },
     {
         "Id": "33",
         "Name": "Tỉnh Hưng Yên",
@@ -361,7 +1239,53 @@
                 "Name": "Thành phố Hưng Yên",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-hung-yen-tinh-hung-yen-2024"
             },
-           
+            {
+                "Id": "325",
+                "Name": "Huyện Văn Lâm",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-van-lam-tinh-hung-yen-2024"
+            },
+            {
+                "Id": "326",
+                "Name": "Huyện Văn Giang",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-van-giang-tinh-hung-yen-2024"
+            },
+            {
+                "Id": "327",
+                "Name": "Huyện Yên Mỹ",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-yen-my-tinh-hung-yen-2024"
+            },
+            {
+                "Id": "328",
+                "Name": "Thị xã Mỹ Hào",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thi-xa-my-hao-tinh-hung-yen-2024"
+            },
+            {
+                "Id": "329",
+                "Name": "Huyện Ân Thi",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-an-thi-tinh-hung-yen-2024"
+            },
+            {
+                "Id": "330",
+                "Name": "Huyện Khoái Châu",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-khoai-chau-tinh-hung-yen-2024"
+            },
+            {
+                "Id": "331",
+                "Name": "Huyện Kim Động",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-kim-dong-tinh-hung-yen-2024"
+            },
+            {
+                "Id": "332",
+                "Name": "Huyện Tiên Lữ",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-tien-lu-tinh-hung-yen-2024"
+            },
+            {
+                "Id": "333",
+                "Name": "Huyện Phù Cừ",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-phu-cu-tinh-hung-yen-2024"
+            }
+        ]
+    },
     {
         "Id": "34",
         "Name": "Tỉnh Thái Bình",
@@ -371,7 +1295,43 @@
                 "Name": "Thành phố Thái Bình",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-thai-binh-tinh-thai-binh-2024"
             },
-          
+            {
+                "Id": "338",
+                "Name": "Huyện Quỳnh Phụ",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-quynh-phu-tinh-thai-binh-2024"
+            },
+            {
+                "Id": "339",
+                "Name": "Huyện Hưng Hà",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-hung-ha-tinh-thai-binh-2024"
+            },
+            {
+                "Id": "340",
+                "Name": "Huyện Đông Hưng",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-dong-hung-tinh-thai-binh-2024"
+            },
+            {
+                "Id": "341",
+                "Name": "Huyện Thái Thụy",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-thai-thuy-tinh-thai-binh-2024"
+            },
+            {
+                "Id": "342",
+                "Name": "Huyện Tiền Hải",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-tien-hai-tinh-thai-binh-2024"
+            },
+            {
+                "Id": "343",
+                "Name": "Huyện Kiến Xương",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-kien-xuong-tinh-thai-binh-2024"
+            },
+            {
+                "Id": "344",
+                "Name": "Huyện Vũ Thư",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-vu-thu-tinh-thai-binh-2024"
+            }
+        ]
+    },
     {
         "Id": "35",
         "Name": "Tỉnh Hà Nam",
@@ -381,7 +1341,33 @@
                 "Name": "Thành phố Phủ Lý",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-phu-ly-tinh-ha-nam-2024"
             },
-         
+            {
+                "Id": "349",
+                "Name": "Thị xã Duy Tiên",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thi-xa-duy-tien-tinh-ha-nam-2024"
+            },
+            {
+                "Id": "350",
+                "Name": "Huyện Kim Bảng",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-kim-bang-tinh-ha-nam-2024"
+            },
+            {
+                "Id": "351",
+                "Name": "Huyện Thanh Liêm",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-thanh-liem-tinh-ha-nam-2024"
+            },
+            {
+                "Id": "352",
+                "Name": "Huyện Bình Lục",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-binh-luc-tinh-ha-nam-2024"
+            },
+            {
+                "Id": "353",
+                "Name": "Huyện Lý Nhân",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-ly-nhan-tinh-ha-nam-2024"
+            }
+        ]
+    },
     {
         "Id": "36",
         "Name": "Tỉnh Nam Định",
@@ -391,7 +1377,53 @@
                 "Name": "Thành phố Nam Định",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-nam-dinh-tinh-nam-dinh-2024"
             },
-            
+            {
+                "Id": "358",
+                "Name": "Huyện Mỹ Lộc",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-my-loc-tinh-nam-dinh-2024"
+            },
+            {
+                "Id": "359",
+                "Name": "Huyện Vụ Bản",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-vu-ban-tinh-nam-dinh-2024"
+            },
+            {
+                "Id": "360",
+                "Name": "Huyện Ý Yên",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-y-yen-tinh-nam-dinh-2024"
+            },
+            {
+                "Id": "361",
+                "Name": "Huyện Nghĩa Hưng",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-nghia-hung-tinh-nam-dinh-2024"
+            },
+            {
+                "Id": "362",
+                "Name": "Huyện Nam Trực",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-nam-truc-tinh-nam-dinh-2024"
+            },
+            {
+                "Id": "363",
+                "Name": "Huyện Trực Ninh",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-truc-ninh-tinh-nam-dinh-2024"
+            },
+            {
+                "Id": "364",
+                "Name": "Huyện Xuân Trường",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-xuan-truong-tinh-nam-dinh-2024"
+            },
+            {
+                "Id": "365",
+                "Name": "Huyện Giao Thủy",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-giao-thuy-tinh-nam-dinh-2024"
+            },
+            {
+                "Id": "366",
+                "Name": "Huyện Hải Hậu",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-hai-hau-tinh-nam-dinh-2024"
+            }
+        ]
+    },
     {
         "Id": "37",
         "Name": "Tỉnh Ninh Bình",
@@ -401,7 +1433,43 @@
                 "Name": "Thành phố Ninh Bình",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-ninh-binh-tinh-ninh-binh-2024"
             },
-           
+            {
+                "Id": "370",
+                "Name": "Thành phố Tam Điệp",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-tam-diep-tinh-ninh-binh-2024"
+            },
+            {
+                "Id": "372",
+                "Name": "Huyện Nho Quan",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-nho-quan-tinh-ninh-binh-2024"
+            },
+            {
+                "Id": "373",
+                "Name": "Huyện Gia Viễn",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-gia-vien-tinh-ninh-binh-2024"
+            },
+            {
+                "Id": "374",
+                "Name": "Huyện Hoa Lư",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-hoa-lu-tinh-ninh-binh-2024"
+            },
+            {
+                "Id": "375",
+                "Name": "Huyện Yên Khánh",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-yen-khanh-tinh-ninh-binh-2024"
+            },
+            {
+                "Id": "376",
+                "Name": "Huyện Kim Sơn",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-kim-son-tinh-ninh-binh-2024"
+            },
+            {
+                "Id": "377",
+                "Name": "Huyện Yên Mô",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-yen-mo-tinh-ninh-binh-2024"
+            }
+        ]
+    },
     {
         "Id": "38",
         "Name": "Tỉnh Thanh Hóa",
@@ -411,7 +1479,138 @@
                 "Name": "Thành phố Thanh Hóa",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-thanh-hoa-tinh-thanh-hoa-2024"
             },
-           
+            {
+                "Id": "381",
+                "Name": "Thị xã Bỉm Sơn",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thi-xa-bim-son-tinh-thanh-hoa-2024"
+            },
+            {
+                "Id": "382",
+                "Name": "Thành phố Sầm Sơn",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-sam-son-tinh-thanh-hoa-2024"
+            },
+            {
+                "Id": "384",
+                "Name": "Huyện Mường Lát",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-muong-lat-tinh-thanh-hoa-2024"
+            },
+            {
+                "Id": "385",
+                "Name": "Huyện Quan Hóa",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-quan-hoa-tinh-thanh-hoa-2024"
+            },
+            {
+                "Id": "386",
+                "Name": "Huyện Bá Thước",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-ba-thuoc-tinh-thanh-hoa-2024"
+            },
+            {
+                "Id": "387",
+                "Name": "Huyện Quan Sơn",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-quan-son-tinh-thanh-hoa-2024"
+            },
+            {
+                "Id": "388",
+                "Name": "Huyện Lang Chánh",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-lang-chanh-tinh-thanh-hoa-2024"
+            },
+            {
+                "Id": "389",
+                "Name": "Huyện Ngọc Lặc",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-ngoc-lac-tinh-thanh-hoa-2024"
+            },
+            {
+                "Id": "390",
+                "Name": "Huyện Cẩm Thủy",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-cam-thuy-tinh-thanh-hoa-2024"
+            },
+            {
+                "Id": "391",
+                "Name": "Huyện Thạch Thành",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-thach-thanh-tinh-thanh-hoa-2024"
+            },
+            {
+                "Id": "392",
+                "Name": "Huyện Hà Trung",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-ha-trung-tinh-thanh-hoa-2024"
+            },
+            {
+                "Id": "393",
+                "Name": "Huyện Vĩnh Lộc",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-vinh-loc-tinh-thanh-hoa-2024"
+            },
+            {
+                "Id": "394",
+                "Name": "Huyện Yên Định",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-yen-dinh-tinh-thanh-hoa-2024"
+            },
+            {
+                "Id": "395",
+                "Name": "Huyện Thọ Xuân",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-tho-xuan-tinh-thanh-hoa-2024"
+            },
+            {
+                "Id": "396",
+                "Name": "Huyện Thường Xuân",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-thuong-xuan-tinh-thanh-hoa-2024"
+            },
+            {
+                "Id": "397",
+                "Name": "Huyện Triệu Sơn",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-trieu-son-tinh-thanh-hoa-2024"
+            },
+            {
+                "Id": "398",
+                "Name": "Huyện Thiệu Hóa",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-thieu-hoa-tinh-thanh-hoa-2024"
+            },
+            {
+                "Id": "399",
+                "Name": "Huyện Hoằng Hóa",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-hoang-hoa-tinh-thanh-hoa-2024"
+            },
+            {
+                "Id": "400",
+                "Name": "Huyện Hậu Lộc",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-hau-loc-tinh-thanh-hoa-2024"
+            },
+            {
+                "Id": "401",
+                "Name": "Huyện Nga Sơn",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-nga-son-tinh-thanh-hoa-2024"
+            },
+            {
+                "Id": "402",
+                "Name": "Huyện Như Xuân",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-nhu-xuan-tinh-thanh-hoa-2024"
+            },
+            {
+                "Id": "403",
+                "Name": "Huyện Như Thanh",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-nhu-thanh-tinh-thanh-hoa-2024"
+            },
+            {
+                "Id": "404",
+                "Name": "Huyện Nông Cống",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-nong-cong-tinh-thanh-hoa-2024"
+            },
+            {
+                "Id": "405",
+                "Name": "Huyện Đông Sơn",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-dong-son-tinh-thanh-hoa-2024"
+            },
+            {
+                "Id": "406",
+                "Name": "Huyện Quảng Xương",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-quang-xuong-tinh-thanh-hoa-2024"
+            },
+            {
+                "Id": "407",
+                "Name": "Thị xã Nghi Sơn",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thi-xa-nghi-son-tinh-thanh-hoa-2024"
+            }
+        ]
+    },
     {
         "Id": "40",
         "Name": "Tỉnh Nghệ An",
@@ -421,7 +1620,108 @@
                 "Name": "Thành phố Vinh",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-vinh-tinh-nghe-an-2024"
             },
-          
+            {
+                "Id": "413",
+                "Name": "Thị xã Cửa Lò",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thi-xa-cua-lo-tinh-nghe-an-2024"
+            },
+            {
+                "Id": "414",
+                "Name": "Thị xã Thái Hoà",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thi-xa-thai-hoa-tinh-nghe-an-2024"
+            },
+            {
+                "Id": "415",
+                "Name": "Huyện Quế Phong",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-que-phong-tinh-nghe-an-2024"
+            },
+            {
+                "Id": "416",
+                "Name": "Huyện Quỳ Châu",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-quy-chau-tinh-nghe-an-2024"
+            },
+            {
+                "Id": "417",
+                "Name": "Huyện Kỳ Sơn",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-ky-son-tinh-nghe-an-2024"
+            },
+            {
+                "Id": "418",
+                "Name": "Huyện Tương Dương",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-tuong-duong-tinh-nghe-an-2024"
+            },
+            {
+                "Id": "419",
+                "Name": "Huyện Nghĩa Đàn",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-nghia-dan-tinh-nghe-an-2024"
+            },
+            {
+                "Id": "420",
+                "Name": "Huyện Quỳ Hợp",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-quy-hop-tinh-nghe-an-2024"
+            },
+            {
+                "Id": "421",
+                "Name": "Huyện Quỳnh Lưu",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-quynh-luu-tinh-nghe-an-2024"
+            },
+            {
+                "Id": "422",
+                "Name": "Huyện Con Cuông",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-con-cuong-tinh-nghe-an-2024"
+            },
+            {
+                "Id": "423",
+                "Name": "Huyện Tân Kỳ",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-tan-ky-tinh-nghe-an-2024"
+            },
+            {
+                "Id": "424",
+                "Name": "Huyện Anh Sơn",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-anh-son-tinh-nghe-an-2024"
+            },
+            {
+                "Id": "425",
+                "Name": "Huyện Diễn Châu",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-dien-chau-tinh-nghe-an-2024"
+            },
+            {
+                "Id": "426",
+                "Name": "Huyện Yên Thành",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-yen-thanh-tinh-nghe-an-2024"
+            },
+            {
+                "Id": "427",
+                "Name": "Huyện Đô Lương",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-do-luong-tinh-nghe-an-2024"
+            },
+            {
+                "Id": "428",
+                "Name": "Huyện Thanh Chương",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-thanh-chuong-tinh-nghe-an-2024"
+            },
+            {
+                "Id": "429",
+                "Name": "Huyện Nghi Lộc",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-nghi-loc-tinh-nghe-an-2024"
+            },
+            {
+                "Id": "430",
+                "Name": "Huyện Nam Đàn",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-nam-dan-tinh-nghe-an-2024"
+            },
+            {
+                "Id": "431",
+                "Name": "Huyện Hưng Nguyên",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-hung-nguyen-tinh-nghe-an-2024"
+            },
+            {
+                "Id": "432",
+                "Name": "Thị xã Hoàng Mai",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thi-xa-hoang-mai-tinh-nghe-an-2024"
+            }
+        ]
+    },
     {
         "Id": "42",
         "Name": "Tỉnh Hà Tĩnh",
@@ -431,7 +1731,68 @@
                 "Name": "Thành phố Hà Tĩnh",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-ha-tinh-tinh-ha-tinh-2024"
             },
-          
+            {
+                "Id": "437",
+                "Name": "Thị xã Hồng Lĩnh",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thi-xa-hong-linh-tinh-ha-tinh-2024"
+            },
+            {
+                "Id": "439",
+                "Name": "Huyện Hương Sơn",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-huong-son-tinh-ha-tinh-2024"
+            },
+            {
+                "Id": "440",
+                "Name": "Huyện Đức Thọ",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-duc-tho-tinh-ha-tinh-2024"
+            },
+            {
+                "Id": "441",
+                "Name": "Huyện Vũ Quang",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-vu-quang-tinh-ha-tinh-2024"
+            },
+            {
+                "Id": "442",
+                "Name": "Huyện Nghi Xuân",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-nghi-xuan-tinh-ha-tinh-2024"
+            },
+            {
+                "Id": "443",
+                "Name": "Huyện Can Lộc",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-can-loc-tinh-ha-tinh-2024"
+            },
+            {
+                "Id": "444",
+                "Name": "Huyện Hương Khê",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-huong-khe-tinh-ha-tinh-2024"
+            },
+            {
+                "Id": "445",
+                "Name": "Huyện Thạch Hà",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-thach-ha-tinh-ha-tinh-2024"
+            },
+            {
+                "Id": "446",
+                "Name": "Huyện Cẩm Xuyên",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-cam-xuyen-tinh-ha-tinh-2024"
+            },
+            {
+                "Id": "447",
+                "Name": "Huyện Kỳ Anh",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-ky-anh-tinh-ha-tinh-2024"
+            },
+            {
+                "Id": "448",
+                "Name": "Huyện Lộc Hà",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-loc-ha-tinh-ha-tinh-2024"
+            },
+            {
+                "Id": "449",
+                "Name": "Thị xã Kỳ Anh",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thi-xa-ky-anh-tinh-ha-tinh-2024"
+            }
+        ]
+    },
     {
         "Id": "44",
         "Name": "Tỉnh Quảng Bình",
@@ -441,7 +1802,43 @@
                 "Name": "Thành Phố Đồng Hới",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-dong-hoi-tinh-quang-binh-2024"
             },
-         
+            {
+                "Id": "452",
+                "Name": "Huyện Minh Hóa",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-minh-hoa-tinh-quang-binh-2024"
+            },
+            {
+                "Id": "453",
+                "Name": "Huyện Tuyên Hóa",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-tuyen-hoa-tinh-quang-binh-2024"
+            },
+            {
+                "Id": "454",
+                "Name": "Huyện Quảng Trạch",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-quang-trach-tinh-quang-binh-2024"
+            },
+            {
+                "Id": "455",
+                "Name": "Huyện Bố Trạch",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-bo-trach-tinh-quang-binh-2024"
+            },
+            {
+                "Id": "456",
+                "Name": "Huyện Quảng Ninh",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-quang-ninh-tinh-quang-binh-2024"
+            },
+            {
+                "Id": "457",
+                "Name": "Huyện Lệ Thủy",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-le-thuy-tinh-quang-binh-2024"
+            },
+            {
+                "Id": "458",
+                "Name": "Thị xã Ba Đồn",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thi-xa-ba-don-tinh-quang-binh-2024"
+            }
+        ]
+    },
     {
         "Id": "45",
         "Name": "Tỉnh Quảng Trị",
@@ -451,7 +1848,53 @@
                 "Name": "Thành phố Đông Hà",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-dong-ha-tinh-quang-tri-2024"
             },
-          
+            {
+                "Id": "462",
+                "Name": "Thị xã Quảng Trị",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thi-xa-quang-tri-tinh-quang-tri-2024"
+            },
+            {
+                "Id": "464",
+                "Name": "Huyện Vĩnh Linh",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-vinh-linh-tinh-quang-tri-2024"
+            },
+            {
+                "Id": "465",
+                "Name": "Huyện Hướng Hóa",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-huong-hoa-tinh-quang-tri-2024"
+            },
+            {
+                "Id": "466",
+                "Name": "Huyện Gio Linh",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-gio-linh-tinh-quang-tri-2024"
+            },
+            {
+                "Id": "467",
+                "Name": "Huyện Đa Krông",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-da-krong-tinh-quang-tri-2024"
+            },
+            {
+                "Id": "468",
+                "Name": "Huyện Cam Lộ",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-cam-lo-tinh-quang-tri-2024"
+            },
+            {
+                "Id": "469",
+                "Name": "Huyện Triệu Phong",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-trieu-phong-tinh-quang-tri-2024"
+            },
+            {
+                "Id": "470",
+                "Name": "Huyện Hải Lăng",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-hai-lang-tinh-quang-tri-2024"
+            },
+            {
+                "Id": "471",
+                "Name": "Huyện Cồn Cỏ",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-con-co-tinh-quang-tri-2024"
+            }
+        ]
+    },
     {
         "Id": "46",
         "Name": "Tỉnh Thừa Thiên Huế",
@@ -461,7 +1904,48 @@
                 "Name": "Thành phố Huế",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-hue-tinh-thua-thien-hue-2024"
             },
-           
+            {
+                "Id": "476",
+                "Name": "Huyện Phong Điền",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-phong-dien-tinh-thua-thien-hue-2024"
+            },
+            {
+                "Id": "477",
+                "Name": "Huyện Quảng Điền",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-quang-dien-tinh-thua-thien-hue-2024"
+            },
+            {
+                "Id": "478",
+                "Name": "Huyện Phú Vang",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-phu-vang-tinh-thua-thien-hue-2024"
+            },
+            {
+                "Id": "479",
+                "Name": "Thị xã Hương Thủy",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thi-xa-huong-thuy-tinh-thua-thien-hue-2024"
+            },
+            {
+                "Id": "480",
+                "Name": "Thị xã Hương Trà",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thi-xa-huong-tra-tinh-thua-thien-hue-2024"
+            },
+            {
+                "Id": "481",
+                "Name": "Huyện A Lưới",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-a-luoi-tinh-thua-thien-hue-2024"
+            },
+            {
+                "Id": "482",
+                "Name": "Huyện Phú Lộc",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-phu-loc-tinh-thua-thien-hue-2024"
+            },
+            {
+                "Id": "483",
+                "Name": "Huyện Nam Đông",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-nam-dong-tinh-thua-thien-hue-2024"
+            }
+        ]
+    },
     {
         "Id": "48",
         "Name": "Thành phố Đà Nẵng",
@@ -471,7 +1955,43 @@
                 "Name": "Quận Liên Chiểu",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-quan-lien-chieu-thanh-pho-da-nang-2024"
             },
-           
+            {
+                "Id": "491",
+                "Name": "Quận Thanh Khê",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-quan-thanh-khe-thanh-pho-da-nang-2024"
+            },
+            {
+                "Id": "492",
+                "Name": "Quận Hải Châu",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-quan-hai-chau-thanh-pho-da-nang-2024"
+            },
+            {
+                "Id": "493",
+                "Name": "Quận Sơn Trà",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-quan-son-tra-thanh-pho-da-nang-2024"
+            },
+            {
+                "Id": "494",
+                "Name": "Quận Ngũ Hành Sơn",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-quan-ngu-hanh-son-thanh-pho-da-nang-2024"
+            },
+            {
+                "Id": "495",
+                "Name": "Quận Cẩm Lệ",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-quan-cam-le-thanh-pho-da-nang-2024"
+            },
+            {
+                "Id": "497",
+                "Name": "Huyện Hòa Vang",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-hoa-vang-thanh-pho-da-nang-2024"
+            },
+            {
+                "Id": "498",
+                "Name": "Huyện Hoàng Sa",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-hoang-sa-thanh-pho-da-nang-2024"
+            }
+        ]
+    },
     {
         "Id": "49",
         "Name": "Tỉnh Quảng Nam",
@@ -481,7 +2001,93 @@
                 "Name": "Thành phố Tam Kỳ",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-tam-ky-tinh-quang-nam-2024"
             },
-           
+            {
+                "Id": "503",
+                "Name": "Thành phố Hội An",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-hoi-an-tinh-quang-nam-2024"
+            },
+            {
+                "Id": "504",
+                "Name": "Huyện Tây Giang",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-tay-giang-tinh-quang-nam-2024"
+            },
+            {
+                "Id": "505",
+                "Name": "Huyện Đông Giang",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-dong-giang-tinh-quang-nam-2024"
+            },
+            {
+                "Id": "506",
+                "Name": "Huyện Đại Lộc",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-dai-loc-tinh-quang-nam-2024"
+            },
+            {
+                "Id": "507",
+                "Name": "Thị xã Điện Bàn",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thi-xa-dien-ban-tinh-quang-nam-2024"
+            },
+            {
+                "Id": "508",
+                "Name": "Huyện Duy Xuyên",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-duy-xuyen-tinh-quang-nam-2024"
+            },
+            {
+                "Id": "509",
+                "Name": "Huyện Quế Sơn",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-que-son-tinh-quang-nam-2024"
+            },
+            {
+                "Id": "510",
+                "Name": "Huyện Nam Giang",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-nam-giang-tinh-quang-nam-2024"
+            },
+            {
+                "Id": "511",
+                "Name": "Huyện Phước Sơn",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-phuoc-son-tinh-quang-nam-2024"
+            },
+            {
+                "Id": "512",
+                "Name": "Huyện Hiệp Đức",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-hiep-duc-tinh-quang-nam-2024"
+            },
+            {
+                "Id": "513",
+                "Name": "Huyện Thăng Bình",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-thang-binh-tinh-quang-nam-2024"
+            },
+            {
+                "Id": "514",
+                "Name": "Huyện Tiên Phước",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-tien-phuoc-tinh-quang-nam-2024"
+            },
+            {
+                "Id": "515",
+                "Name": "Huyện Bắc Trà My",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-bac-tra-my-tinh-quang-nam-2024"
+            },
+            {
+                "Id": "516",
+                "Name": "Huyện Nam Trà My",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-nam-tra-my-tinh-quang-nam-2024"
+            },
+            {
+                "Id": "517",
+                "Name": "Huyện Núi Thành",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-nui-thanh-tinh-quang-nam-2024"
+            },
+            {
+                "Id": "518",
+                "Name": "Huyện Phú Ninh",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-phu-ninh-tinh-quang-nam-2024"
+            },
+            {
+                "Id": "519",
+                "Name": "Huyện Nông Sơn",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-nong-son-tinh-quang-nam-2024"
+            }
+        ]
+    },
     {
         "Id": "51",
         "Name": "Tỉnh Quảng Ngãi",
@@ -491,7 +2097,68 @@
                 "Name": "Thành phố Quảng Ngãi",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-quang-ngai-tinh-quang-ngai-2024"
             },
-           
+            {
+                "Id": "524",
+                "Name": "Huyện Bình Sơn",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-binh-son-tinh-quang-ngai-2024"
+            },
+            {
+                "Id": "525",
+                "Name": "Huyện Trà Bồng",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-tra-bong-tinh-quang-ngai-2024"
+            },
+            {
+                "Id": "527",
+                "Name": "Huyện Sơn Tịnh",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-son-tinh-tinh-quang-ngai-2024"
+            },
+            {
+                "Id": "528",
+                "Name": "Huyện Tư Nghĩa",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-tu-nghia-tinh-quang-ngai-2024"
+            },
+            {
+                "Id": "529",
+                "Name": "Huyện Sơn Hà",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-son-ha-tinh-quang-ngai-2024"
+            },
+            {
+                "Id": "530",
+                "Name": "Huyện Sơn Tây",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-son-tay-tinh-quang-ngai-2024"
+            },
+            {
+                "Id": "531",
+                "Name": "Huyện Minh Long",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-minh-long-tinh-quang-ngai-2024"
+            },
+            {
+                "Id": "532",
+                "Name": "Huyện Nghĩa Hành",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-nghia-hanh-tinh-quang-ngai-2024"
+            },
+            {
+                "Id": "533",
+                "Name": "Huyện Mộ Đức",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-mo-duc-tinh-quang-ngai-2024"
+            },
+            {
+                "Id": "534",
+                "Name": "Thị xã Đức Phổ",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thi-xa-duc-pho-tinh-quang-ngai-2024"
+            },
+            {
+                "Id": "535",
+                "Name": "Huyện Ba Tơ",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-ba-to-tinh-quang-ngai-2024"
+            },
+            {
+                "Id": "536",
+                "Name": "Huyện Lý Sơn",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-ly-son-tinh-quang-ngai-2024"
+            }
+        ]
+    },
     {
         "Id": "52",
         "Name": "Tỉnh Bình Định",
@@ -501,7 +2168,58 @@
                 "Name": "Thành phố Quy Nhơn",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-quy-nhon-tinh-binh-dinh-2024"
             },
-           
+            {
+                "Id": "542",
+                "Name": "Huyện An Lão",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-an-lao-tinh-binh-dinh-2024"
+            },
+            {
+                "Id": "543",
+                "Name": "Thị xã Hoài Nhơn",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thi-xa-hoai-nhon-tinh-binh-dinh-2024"
+            },
+            {
+                "Id": "544",
+                "Name": "Huyện Hoài Ân",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-hoai-an-tinh-binh-dinh-2024"
+            },
+            {
+                "Id": "545",
+                "Name": "Huyện Phù Mỹ",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-phu-my-tinh-binh-dinh-2024"
+            },
+            {
+                "Id": "546",
+                "Name": "Huyện Vĩnh Thạnh",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-vinh-thanh-tinh-binh-dinh-2024"
+            },
+            {
+                "Id": "547",
+                "Name": "Huyện Tây Sơn",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-tay-son-tinh-binh-dinh-2024"
+            },
+            {
+                "Id": "548",
+                "Name": "Huyện Phù Cát",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-phu-cat-tinh-binh-dinh-2024"
+            },
+            {
+                "Id": "549",
+                "Name": "Thị xã An Nhơn",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thi-xa-an-nhon-tinh-binh-dinh-2024"
+            },
+            {
+                "Id": "550",
+                "Name": "Huyện Tuy Phước",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-tuy-phuoc-tinh-binh-dinh-2024"
+            },
+            {
+                "Id": "551",
+                "Name": "Huyện Vân Canh",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-van-canh-tinh-binh-dinh-2024"
+            }
+        ]
+    },
     {
         "Id": "54",
         "Name": "Tỉnh Phú Yên",
@@ -511,7 +2229,48 @@
                 "Name": "Thành phố Tuy Hoà",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-tuy-hoa-tinh-phu-yen-2024"
             },
-          
+            {
+                "Id": "557",
+                "Name": "Thị xã Sông Cầu",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thi-xa-song-cau-tinh-phu-yen-2024"
+            },
+            {
+                "Id": "558",
+                "Name": "Huyện Đồng Xuân",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-dong-xuan-tinh-phu-yen-2024"
+            },
+            {
+                "Id": "559",
+                "Name": "Huyện Tuy An",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-tuy-an-tinh-phu-yen-2024"
+            },
+            {
+                "Id": "560",
+                "Name": "Huyện Sơn Hòa",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-son-hoa-tinh-phu-yen-2024"
+            },
+            {
+                "Id": "561",
+                "Name": "Huyện Sông Hinh",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-song-hinh-tinh-phu-yen-2024"
+            },
+            {
+                "Id": "562",
+                "Name": "Huyện Tây Hoà",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-tay-hoa-tinh-phu-yen-2024"
+            },
+            {
+                "Id": "563",
+                "Name": "Huyện Phú Hoà",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-phu-hoa-tinh-phu-yen-2024"
+            },
+            {
+                "Id": "564",
+                "Name": "Thị xã Đông Hòa",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thi-xa-dong-hoa-tinh-phu-yen-2024"
+            }
+        ]
+    },
     {
         "Id": "56",
         "Name": "Tỉnh Khánh Hòa",
@@ -521,7 +2280,48 @@
                 "Name": "Thành phố Nha Trang",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-nha-trang-tinh-khanh-hoa-2024"
             },
-           
+            {
+                "Id": "569",
+                "Name": "Thành phố Cam Ranh",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-cam-ranh-tinh-khanh-hoa-2024"
+            },
+            {
+                "Id": "570",
+                "Name": "Huyện Cam Lâm",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-cam-lam-tinh-khanh-hoa-2024"
+            },
+            {
+                "Id": "571",
+                "Name": "Huyện Vạn Ninh",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-van-ninh-tinh-khanh-hoa-2024"
+            },
+            {
+                "Id": "572",
+                "Name": "Thị xã Ninh Hòa",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thi-xa-ninh-hoa-tinh-khanh-hoa-2024"
+            },
+            {
+                "Id": "573",
+                "Name": "Huyện Khánh Vĩnh",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-khanh-vinh-tinh-khanh-hoa-2024"
+            },
+            {
+                "Id": "574",
+                "Name": "Huyện Diên Khánh",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-dien-khanh-tinh-khanh-hoa-2024"
+            },
+            {
+                "Id": "575",
+                "Name": "Huyện Khánh Sơn",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-khanh-son-tinh-khanh-hoa-2024"
+            },
+            {
+                "Id": "576",
+                "Name": "Huyện Trường Sa",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-truong-sa-tinh-khanh-hoa-2024"
+            }
+        ]
+    },
     {
         "Id": "58",
         "Name": "Tỉnh Ninh Thuận",
@@ -531,7 +2331,38 @@
                 "Name": "Thành phố Phan Rang-Tháp Chàm",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-phan-rang-thap-cham-tinh-ninh-thuan-2024"
             },
-          
+            {
+                "Id": "584",
+                "Name": "Huyện Bác Ái",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-bac-ai-tinh-ninh-thuan-2024"
+            },
+            {
+                "Id": "585",
+                "Name": "Huyện Ninh Sơn",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-ninh-son-tinh-ninh-thuan-2024"
+            },
+            {
+                "Id": "586",
+                "Name": "Huyện Ninh Hải",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-ninh-hai-tinh-ninh-thuan-2024"
+            },
+            {
+                "Id": "587",
+                "Name": "Huyện Ninh Phước",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-ninh-phuoc-tinh-ninh-thuan-2024"
+            },
+            {
+                "Id": "588",
+                "Name": "Huyện Thuận Bắc",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-thuan-bac-tinh-ninh-thuan-2024"
+            },
+            {
+                "Id": "589",
+                "Name": "Huyện Thuận Nam",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-thuan-nam-tinh-ninh-thuan-2024"
+            }
+        ]
+    },
     {
         "Id": "60",
         "Name": "Tỉnh Bình Thuận",
@@ -541,7 +2372,53 @@
                 "Name": "Thành phố Phan Thiết",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-phan-thiet-tinh-binh-thuan-2024"
             },
-          
+            {
+                "Id": "594",
+                "Name": "Thị xã La Gi",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thi-xa-la-gi-tinh-binh-thuan-2024"
+            },
+            {
+                "Id": "595",
+                "Name": "Huyện Tuy Phong",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-tuy-phong-tinh-binh-thuan-2024"
+            },
+            {
+                "Id": "596",
+                "Name": "Huyện Bắc Bình",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-bac-binh-tinh-binh-thuan-2024"
+            },
+            {
+                "Id": "597",
+                "Name": "Huyện Hàm Thuận Bắc",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-ham-thuan-bac-tinh-binh-thuan-2024"
+            },
+            {
+                "Id": "598",
+                "Name": "Huyện Hàm Thuận Nam",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-ham-thuan-nam-tinh-binh-thuan-2024"
+            },
+            {
+                "Id": "599",
+                "Name": "Huyện Tánh Linh",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-tanh-linh-tinh-binh-thuan-2024"
+            },
+            {
+                "Id": "600",
+                "Name": "Huyện Đức Linh",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-duc-linh-tinh-binh-thuan-2024"
+            },
+            {
+                "Id": "601",
+                "Name": "Huyện Hàm Tân",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-ham-tan-tinh-binh-thuan-2024"
+            },
+            {
+                "Id": "602",
+                "Name": "Huyện Phú Quí",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-phu-qui-tinh-binh-thuan-2024"
+            }
+        ]
+    },
     {
         "Id": "62",
         "Name": "Tỉnh Kon Tum",
@@ -551,7 +2428,53 @@
                 "Name": "Thành phố Kon Tum",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-kon-tum-tinh-kon-tum-2024"
             },
-           
+            {
+                "Id": "610",
+                "Name": "Huyện Đắk Glei",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-dak-glei-tinh-kon-tum-2024"
+            },
+            {
+                "Id": "611",
+                "Name": "Huyện Ngọc Hồi",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-ngoc-hoi-tinh-kon-tum-2024"
+            },
+            {
+                "Id": "612",
+                "Name": "Huyện Đắk Tô",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-dak-to-tinh-kon-tum-2024"
+            },
+            {
+                "Id": "613",
+                "Name": "Huyện Kon Plông",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-kon-plong-tinh-kon-tum-2024"
+            },
+            {
+                "Id": "614",
+                "Name": "Huyện Kon Rẫy",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-kon-ray-tinh-kon-tum-2024"
+            },
+            {
+                "Id": "615",
+                "Name": "Huyện Đắk Hà",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-dak-ha-tinh-kon-tum-2024"
+            },
+            {
+                "Id": "616",
+                "Name": "Huyện Sa Thầy",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-sa-thay-tinh-kon-tum-2024"
+            },
+            {
+                "Id": "617",
+                "Name": "Huyện Tu Mơ Rông",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-tu-mo-rong-tinh-kon-tum-2024"
+            },
+            {
+                "Id": "618",
+                "Name": "Huyện Ia H' Drai",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-ia-h'-drai-tinh-kon-tum-2024"
+            }
+        ]
+    },
     {
         "Id": "64",
         "Name": "Tỉnh Gia Lai",
@@ -561,7 +2484,88 @@
                 "Name": "Thành phố Pleiku",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-pleiku-tinh-gia-lai-2024"
             },
-           
+            {
+                "Id": "623",
+                "Name": "Thị xã An Khê",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thi-xa-an-khe-tinh-gia-lai-2024"
+            },
+            {
+                "Id": "624",
+                "Name": "Thị xã Ayun Pa",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thi-xa-ayun-pa-tinh-gia-lai-2024"
+            },
+            {
+                "Id": "625",
+                "Name": "Huyện KBang",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-kbang-tinh-gia-lai-2024"
+            },
+            {
+                "Id": "626",
+                "Name": "Huyện Đăk Đoa",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-dak-doa-tinh-gia-lai-2024"
+            },
+            {
+                "Id": "627",
+                "Name": "Huyện Chư Păh",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-chu-pah-tinh-gia-lai-2024"
+            },
+            {
+                "Id": "628",
+                "Name": "Huyện Ia Grai",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-ia-grai-tinh-gia-lai-2024"
+            },
+            {
+                "Id": "629",
+                "Name": "Huyện Mang Yang",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-mang-yang-tinh-gia-lai-2024"
+            },
+            {
+                "Id": "630",
+                "Name": "Huyện Kông Chro",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-kong-chro-tinh-gia-lai-2024"
+            },
+            {
+                "Id": "631",
+                "Name": "Huyện Đức Cơ",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-duc-co-tinh-gia-lai-2024"
+            },
+            {
+                "Id": "632",
+                "Name": "Huyện Chư Prông",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-chu-prong-tinh-gia-lai-2024"
+            },
+            {
+                "Id": "633",
+                "Name": "Huyện Chư Sê",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-chu-se-tinh-gia-lai-2024"
+            },
+            {
+                "Id": "634",
+                "Name": "Huyện Đăk Pơ",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-dak-po-tinh-gia-lai-2024"
+            },
+            {
+                "Id": "635",
+                "Name": "Huyện Ia Pa",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-ia-pa-tinh-gia-lai-2024"
+            },
+            {
+                "Id": "637",
+                "Name": "Huyện Krông Pa",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-krong-pa-tinh-gia-lai-2024"
+            },
+            {
+                "Id": "638",
+                "Name": "Huyện Phú Thiện",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-phu-thien-tinh-gia-lai-2024"
+            },
+            {
+                "Id": "639",
+                "Name": "Huyện Chư Pưh",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-chu-puh-tinh-gia-lai-2024"
+            }
+        ]
+    },
     {
         "Id": "66",
         "Name": "Tỉnh Đắk Lắk",
@@ -571,7 +2575,78 @@
                 "Name": "Thành phố Buôn Ma Thuột",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-buon-ma-thuot-tinh-dak-lak-2024"
             },
-           
+            {
+                "Id": "644",
+                "Name": "Thị Xã Buôn Hồ",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thi-xa-buon-ho-tinh-dak-lak-2024"
+            },
+            {
+                "Id": "645",
+                "Name": "Huyện Ea H'leo",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-ea-h'leo-tinh-dak-lak-2024"
+            },
+            {
+                "Id": "646",
+                "Name": "Huyện Ea Súp",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-ea-sup-tinh-dak-lak-2024"
+            },
+            {
+                "Id": "647",
+                "Name": "Huyện Buôn Đôn",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-buon-don-tinh-dak-lak-2024"
+            },
+            {
+                "Id": "648",
+                "Name": "Huyện Cư M'gar",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-cu-m'gar-tinh-dak-lak-2024"
+            },
+            {
+                "Id": "649",
+                "Name": "Huyện Krông Búk",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-krong-buk-tinh-dak-lak-2024"
+            },
+            {
+                "Id": "650",
+                "Name": "Huyện Krông Năng",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-krong-nang-tinh-dak-lak-2024"
+            },
+            {
+                "Id": "651",
+                "Name": "Huyện Ea Kar",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-ea-kar-tinh-dak-lak-2024"
+            },
+            {
+                "Id": "652",
+                "Name": "Huyện M'Đrắk",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-m'drak-tinh-dak-lak-2024"
+            },
+            {
+                "Id": "653",
+                "Name": "Huyện Krông Bông",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-krong-bong-tinh-dak-lak-2024"
+            },
+            {
+                "Id": "654",
+                "Name": "Huyện Krông Pắc",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-krong-pac-tinh-dak-lak-2024"
+            },
+            {
+                "Id": "655",
+                "Name": "Huyện Krông A Na",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-krong-a-na-tinh-dak-lak-2024"
+            },
+            {
+                "Id": "656",
+                "Name": "Huyện Lắk",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-lak-tinh-dak-lak-2024"
+            },
+            {
+                "Id": "657",
+                "Name": "Huyện Cư Kuin",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-cu-kuin-tinh-dak-lak-2024"
+            }
+        ]
+    },
     {
         "Id": "67",
         "Name": "Tỉnh Đắk Nông",
@@ -581,7 +2656,43 @@
                 "Name": "Thành phố Gia Nghĩa",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-gia-nghia-tinh-dak-nong-2024"
             },
-           
+            {
+                "Id": "661",
+                "Name": "Huyện Đăk Glong",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-dak-glong-tinh-dak-nong-2024"
+            },
+            {
+                "Id": "662",
+                "Name": "Huyện Cư Jút",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-cu-jut-tinh-dak-nong-2024"
+            },
+            {
+                "Id": "663",
+                "Name": "Huyện Đắk Mil",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-dak-mil-tinh-dak-nong-2024"
+            },
+            {
+                "Id": "664",
+                "Name": "Huyện Krông Nô",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-krong-no-tinh-dak-nong-2024"
+            },
+            {
+                "Id": "665",
+                "Name": "Huyện Đắk Song",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-dak-song-tinh-dak-nong-2024"
+            },
+            {
+                "Id": "666",
+                "Name": "Huyện Đắk R'Lấp",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-dak-r'lap-tinh-dak-nong-2024"
+            },
+            {
+                "Id": "667",
+                "Name": "Huyện Tuy Đức",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-tuy-duc-tinh-dak-nong-2024"
+            }
+        ]
+    },
     {
         "Id": "68",
         "Name": "Tỉnh Lâm Đồng",
@@ -591,7 +2702,63 @@
                 "Name": "Thành phố Đà Lạt",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-da-lat-tinh-lam-dong-2024"
             },
-           
+            {
+                "Id": "673",
+                "Name": "Thành phố Bảo Lộc",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-bao-loc-tinh-lam-dong-2024"
+            },
+            {
+                "Id": "674",
+                "Name": "Huyện Đam Rông",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-dam-rong-tinh-lam-dong-2024"
+            },
+            {
+                "Id": "675",
+                "Name": "Huyện Lạc Dương",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-lac-duong-tinh-lam-dong-2024"
+            },
+            {
+                "Id": "676",
+                "Name": "Huyện Lâm Hà",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-lam-ha-tinh-lam-dong-2024"
+            },
+            {
+                "Id": "677",
+                "Name": "Huyện Đơn Dương",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-don-duong-tinh-lam-dong-2024"
+            },
+            {
+                "Id": "678",
+                "Name": "Huyện Đức Trọng",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-duc-trong-tinh-lam-dong-2024"
+            },
+            {
+                "Id": "679",
+                "Name": "Huyện Di Linh",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-di-linh-tinh-lam-dong-2024"
+            },
+            {
+                "Id": "680",
+                "Name": "Huyện Bảo Lâm",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-bao-lam-tinh-lam-dong-2024"
+            },
+            {
+                "Id": "681",
+                "Name": "Huyện Đạ Huoai",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-da-huoai-tinh-lam-dong-2024"
+            },
+            {
+                "Id": "682",
+                "Name": "Huyện Đạ Tẻh",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-da-teh-tinh-lam-dong-2024"
+            },
+            {
+                "Id": "683",
+                "Name": "Huyện Cát Tiên",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-cat-tien-tinh-lam-dong-2024"
+            }
+        ]
+    },
     {
         "Id": "70",
         "Name": "Tỉnh Bình Phước",
@@ -601,7 +2768,58 @@
                 "Name": "Thị xã Phước Long",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thi-xa-phuoc-long-tinh-binh-phuoc-2024"
             },
-           
+            {
+                "Id": "689",
+                "Name": "Thành phố Đồng Xoài",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-dong-xoai-tinh-binh-phuoc-2024"
+            },
+            {
+                "Id": "690",
+                "Name": "Thị xã Bình Long",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thi-xa-binh-long-tinh-binh-phuoc-2024"
+            },
+            {
+                "Id": "691",
+                "Name": "Huyện Bù Gia Mập",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-bu-gia-map-tinh-binh-phuoc-2024"
+            },
+            {
+                "Id": "692",
+                "Name": "Huyện Lộc Ninh",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-loc-ninh-tinh-binh-phuoc-2024"
+            },
+            {
+                "Id": "693",
+                "Name": "Huyện Bù Đốp",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-bu-dop-tinh-binh-phuoc-2024"
+            },
+            {
+                "Id": "694",
+                "Name": "Huyện Hớn Quản",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-hon-quan-tinh-binh-phuoc-2024"
+            },
+            {
+                "Id": "695",
+                "Name": "Huyện Đồng Phú",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-dong-phu-tinh-binh-phuoc-2024"
+            },
+            {
+                "Id": "696",
+                "Name": "Huyện Bù Đăng",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-bu-dang-tinh-binh-phuoc-2024"
+            },
+            {
+                "Id": "697",
+                "Name": "Huyện Chơn Thành",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-chon-thanh-tinh-binh-phuoc-2024"
+            },
+            {
+                "Id": "698",
+                "Name": "Huyện Phú Riềng",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-phu-rieng-tinh-binh-phuoc-2024"
+            }
+        ]
+    },
     {
         "Id": "72",
         "Name": "Tỉnh Tây Ninh",
@@ -611,7 +2829,48 @@
                 "Name": "Thành phố Tây Ninh",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-tay-ninh-tinh-tay-ninh-2024"
             },
-          
+            {
+                "Id": "705",
+                "Name": "Huyện Tân Biên",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-tan-bien-tinh-tay-ninh-2024"
+            },
+            {
+                "Id": "706",
+                "Name": "Huyện Tân Châu",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-tan-chau-tinh-tay-ninh-2024"
+            },
+            {
+                "Id": "707",
+                "Name": "Huyện Dương Minh Châu",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-duong-minh-chau-tinh-tay-ninh-2024"
+            },
+            {
+                "Id": "708",
+                "Name": "Huyện Châu Thành",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-chau-thanh-tinh-tay-ninh-2024"
+            },
+            {
+                "Id": "709",
+                "Name": "Thị xã Hòa Thành",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thi-xa-hoa-thanh-tinh-tay-ninh-2024"
+            },
+            {
+                "Id": "710",
+                "Name": "Huyện Gò Dầu",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-go-dau-tinh-tay-ninh-2024"
+            },
+            {
+                "Id": "711",
+                "Name": "Huyện Bến Cầu",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-ben-cau-tinh-tay-ninh-2024"
+            },
+            {
+                "Id": "712",
+                "Name": "Thị xã Trảng Bàng",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thi-xa-trang-bang-tinh-tay-ninh-2024"
+            }
+        ]
+    },
     {
         "Id": "74",
         "Name": "Tỉnh Bình Dương",
@@ -621,7 +2880,48 @@
                 "Name": "Thành phố Thủ Dầu Một",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-thu-dau-mot-tinh-binh-duong-2024"
             },
-           
+            {
+                "Id": "719",
+                "Name": "Huyện Bàu Bàng",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-bau-bang-tinh-binh-duong-2024"
+            },
+            {
+                "Id": "720",
+                "Name": "Huyện Dầu Tiếng",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-dau-tieng-tinh-binh-duong-2024"
+            },
+            {
+                "Id": "721",
+                "Name": "Thị xã Bến Cát",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thi-xa-ben-cat-tinh-binh-duong-2024"
+            },
+            {
+                "Id": "722",
+                "Name": "Huyện Phú Giáo",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-phu-giao-tinh-binh-duong-2024"
+            },
+            {
+                "Id": "723",
+                "Name": "Thị xã Tân Uyên",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thi-xa-tan-uyen-tinh-binh-duong-2024"
+            },
+            {
+                "Id": "724",
+                "Name": "Thành phố Dĩ An",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-di-an-tinh-binh-duong-2024"
+            },
+            {
+                "Id": "725",
+                "Name": "Thành phố Thuận An",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-thuan-an-tinh-binh-duong-2024"
+            },
+            {
+                "Id": "726",
+                "Name": "Huyện Bắc Tân Uyên",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-bac-tan-uyen-tinh-binh-duong-2024"
+            }
+        ]
+    },
     {
         "Id": "75",
         "Name": "Tỉnh Đồng Nai",
@@ -631,7 +2931,58 @@
                 "Name": "Thành phố Biên Hòa",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-bien-hoa-tinh-dong-nai-2024"
             },
-        
+            {
+                "Id": "732",
+                "Name": "Thành phố Long Khánh",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-long-khanh-tinh-dong-nai-2024"
+            },
+            {
+                "Id": "734",
+                "Name": "Huyện Tân Phú",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-tan-phu-tinh-dong-nai-2024"
+            },
+            {
+                "Id": "735",
+                "Name": "Huyện Vĩnh Cửu",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-vinh-cuu-tinh-dong-nai-2024"
+            },
+            {
+                "Id": "736",
+                "Name": "Huyện Định Quán",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-dinh-quan-tinh-dong-nai-2024"
+            },
+            {
+                "Id": "737",
+                "Name": "Huyện Trảng Bom",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-trang-bom-tinh-dong-nai-2024"
+            },
+            {
+                "Id": "738",
+                "Name": "Huyện Thống Nhất",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-thong-nhat-tinh-dong-nai-2024"
+            },
+            {
+                "Id": "739",
+                "Name": "Huyện Cẩm Mỹ",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-cam-my-tinh-dong-nai-2024"
+            },
+            {
+                "Id": "740",
+                "Name": "Huyện Long Thành",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-long-thanh-tinh-dong-nai-2024"
+            },
+            {
+                "Id": "741",
+                "Name": "Huyện Xuân Lộc",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-xuan-loc-tinh-dong-nai-2024"
+            },
+            {
+                "Id": "742",
+                "Name": "Huyện Nhơn Trạch",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-nhon-trach-tinh-dong-nai-2024"
+            }
+        ]
+    },
     {
         "Id": "77",
         "Name": "Tỉnh Bà Rịa - Vũng Tàu",
@@ -641,7 +2992,43 @@
                 "Name": "Thành phố Vũng Tàu",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-vung-tau-tinh-ba-ria---vung-tau-2024"
             },
-            
+            {
+                "Id": "748",
+                "Name": "Thành phố Bà Rịa",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-ba-ria-tinh-ba-ria---vung-tau-2024"
+            },
+            {
+                "Id": "750",
+                "Name": "Huyện Châu Đức",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-chau-duc-tinh-ba-ria---vung-tau-2024"
+            },
+            {
+                "Id": "751",
+                "Name": "Huyện Xuyên Mộc",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-xuyen-moc-tinh-ba-ria---vung-tau-2024"
+            },
+            {
+                "Id": "752",
+                "Name": "Huyện Long Điền",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-long-dien-tinh-ba-ria---vung-tau-2024"
+            },
+            {
+                "Id": "753",
+                "Name": "Huyện Đất Đỏ",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-dat-do-tinh-ba-ria---vung-tau-2024"
+            },
+            {
+                "Id": "754",
+                "Name": "Thị xã Phú Mỹ",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thi-xa-phu-my-tinh-ba-ria---vung-tau-2024"
+            },
+            {
+                "Id": "755",
+                "Name": "Huyện Côn Đảo",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-con-dao-tinh-ba-ria---vung-tau-2024"
+            }
+        ]
+    },
     {
         "Id": "79",
         "Name": "Thành phố Hồ Chí Minh",
@@ -651,7 +3038,123 @@
                 "Name": "Quận 1",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-quan-1-thanh-pho-ho-chi-minh-2024"
             },
-            
+            {
+                "Id": "761",
+                "Name": "Quận 12",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-quan-12-thanh-pho-ho-chi-minh-2024"
+            },
+            {
+                "Id": "762",
+                "Name": "Quận Thủ Đức",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-quan-thu-duc-thanh-pho-ho-chi-minh-2024"
+            },
+            {
+                "Id": "763",
+                "Name": "Quận 9",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-quan-9-thanh-pho-ho-chi-minh-2024"
+            },
+            {
+                "Id": "764",
+                "Name": "Quận Gò Vấp",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-quan-go-vap-thanh-pho-ho-chi-minh-2024"
+            },
+            {
+                "Id": "765",
+                "Name": "Quận Bình Thạnh",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-quan-binh-thanh-thanh-pho-ho-chi-minh-2024"
+            },
+            {
+                "Id": "766",
+                "Name": "Quận Tân Bình",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-quan-tan-binh-thanh-pho-ho-chi-minh-2024"
+            },
+            {
+                "Id": "767",
+                "Name": "Quận Tân Phú",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-quan-tan-phu-thanh-pho-ho-chi-minh-2024"
+            },
+            {
+                "Id": "768",
+                "Name": "Quận Phú Nhuận",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-quan-phu-nhuan-thanh-pho-ho-chi-minh-2024"
+            },
+            {
+                "Id": "769",
+                "Name": "Quận 2",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-quan-2-thanh-pho-ho-chi-minh-2024"
+            },
+            {
+                "Id": "770",
+                "Name": "Quận 3",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-quan-3-thanh-pho-ho-chi-minh-2024"
+            },
+            {
+                "Id": "771",
+                "Name": "Quận 10",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-quan-10-thanh-pho-ho-chi-minh-2024"
+            },
+            {
+                "Id": "772",
+                "Name": "Quận 11",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-quan-11-thanh-pho-ho-chi-minh-2024"
+            },
+            {
+                "Id": "773",
+                "Name": "Quận 4",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-quan-4-thanh-pho-ho-chi-minh-2024"
+            },
+            {
+                "Id": "774",
+                "Name": "Quận 5",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-quan-5-thanh-pho-ho-chi-minh-2024"
+            },
+            {
+                "Id": "775",
+                "Name": "Quận 6",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-quan-6-thanh-pho-ho-chi-minh-2024"
+            },
+            {
+                "Id": "776",
+                "Name": "Quận 8",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-quan-8-thanh-pho-ho-chi-minh-2024"
+            },
+            {
+                "Id": "777",
+                "Name": "Quận Bình Tân",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-quan-binh-tan-thanh-pho-ho-chi-minh-2024"
+            },
+            {
+                "Id": "778",
+                "Name": "Quận 7",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-quan-7-thanh-pho-ho-chi-minh-2024"
+            },
+            {
+                "Id": "783",
+                "Name": "Huyện Củ Chi",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-cu-chi-thanh-pho-ho-chi-minh-2024"
+            },
+            {
+                "Id": "784",
+                "Name": "Huyện Hóc Môn",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-hoc-mon-thanh-pho-ho-chi-minh-2024"
+            },
+            {
+                "Id": "785",
+                "Name": "Huyện Bình Chánh",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-binh-chanh-thanh-pho-ho-chi-minh-2024"
+            },
+            {
+                "Id": "786",
+                "Name": "Huyện Nhà Bè",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-nha-be-thanh-pho-ho-chi-minh-2024"
+            },
+            {
+                "Id": "787",
+                "Name": "Huyện Cần Giờ",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-can-gio-thanh-pho-ho-chi-minh-2024"
+            }
+        ]
+    },
     {
         "Id": "80",
         "Name": "Tỉnh Long An",
@@ -661,7 +3164,78 @@
                 "Name": "Thành phố Tân An",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-tan-an-tinh-long-an-2024"
             },
-          
+            {
+                "Id": "795",
+                "Name": "Thị xã Kiến Tường",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thi-xa-kien-tuong-tinh-long-an-2024"
+            },
+            {
+                "Id": "796",
+                "Name": "Huyện Tân Hưng",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-tan-hung-tinh-long-an-2024"
+            },
+            {
+                "Id": "797",
+                "Name": "Huyện Vĩnh Hưng",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-vinh-hung-tinh-long-an-2024"
+            },
+            {
+                "Id": "798",
+                "Name": "Huyện Mộc Hóa",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-moc-hoa-tinh-long-an-2024"
+            },
+            {
+                "Id": "799",
+                "Name": "Huyện Tân Thạnh",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-tan-thanh-tinh-long-an-2024"
+            },
+            {
+                "Id": "800",
+                "Name": "Huyện Thạnh Hóa",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-thanh-hoa-tinh-long-an-2024"
+            },
+            {
+                "Id": "801",
+                "Name": "Huyện Đức Huệ",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-duc-hue-tinh-long-an-2024"
+            },
+            {
+                "Id": "802",
+                "Name": "Huyện Đức Hòa",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-duc-hoa-tinh-long-an-2024"
+            },
+            {
+                "Id": "803",
+                "Name": "Huyện Bến Lức",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-ben-luc-tinh-long-an-2024"
+            },
+            {
+                "Id": "804",
+                "Name": "Huyện Thủ Thừa",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-thu-thua-tinh-long-an-2024"
+            },
+            {
+                "Id": "805",
+                "Name": "Huyện Tân Trụ",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-tan-tru-tinh-long-an-2024"
+            },
+            {
+                "Id": "806",
+                "Name": "Huyện Cần Đước",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-can-duoc-tinh-long-an-2024"
+            },
+            {
+                "Id": "807",
+                "Name": "Huyện Cần Giuộc",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-can-giuoc-tinh-long-an-2024"
+            },
+            {
+                "Id": "808",
+                "Name": "Huyện Châu Thành",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-chau-thanh-tinh-long-an-2024"
+            }
+        ]
+    },
     {
         "Id": "82",
         "Name": "Tỉnh Tiền Giang",
@@ -671,7 +3245,58 @@
                 "Name": "Thành phố Mỹ Tho",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-my-tho-tinh-tien-giang-2024"
             },
-           
+            {
+                "Id": "816",
+                "Name": "Thị xã Gò Công",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thi-xa-go-cong-tinh-tien-giang-2024"
+            },
+            {
+                "Id": "817",
+                "Name": "Thị xã Cai Lậy",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thi-xa-cai-lay-tinh-tien-giang-2024"
+            },
+            {
+                "Id": "818",
+                "Name": "Huyện Tân Phước",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-tan-phuoc-tinh-tien-giang-2024"
+            },
+            {
+                "Id": "819",
+                "Name": "Huyện Cái Bè",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-cai-be-tinh-tien-giang-2024"
+            },
+            {
+                "Id": "820",
+                "Name": "Huyện Cai Lậy",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-cai-lay-tinh-tien-giang-2024"
+            },
+            {
+                "Id": "821",
+                "Name": "Huyện Châu Thành",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-chau-thanh-tinh-tien-giang-2024"
+            },
+            {
+                "Id": "822",
+                "Name": "Huyện Chợ Gạo",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-cho-gao-tinh-tien-giang-2024"
+            },
+            {
+                "Id": "823",
+                "Name": "Huyện Gò Công Tây",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-go-cong-tay-tinh-tien-giang-2024"
+            },
+            {
+                "Id": "824",
+                "Name": "Huyện Gò Công Đông",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-go-cong-dong-tinh-tien-giang-2024"
+            },
+            {
+                "Id": "825",
+                "Name": "Huyện Tân Phú Đông",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-tan-phu-dong-tinh-tien-giang-2024"
+            }
+        ]
+    },
     {
         "Id": "83",
         "Name": "Tỉnh Bến Tre",
@@ -681,7 +3306,48 @@
                 "Name": "Thành phố Bến Tre",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-ben-tre-tinh-ben-tre-2024"
             },
-           
+            {
+                "Id": "831",
+                "Name": "Huyện Châu Thành",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-chau-thanh-tinh-ben-tre-2024"
+            },
+            {
+                "Id": "832",
+                "Name": "Huyện Chợ Lách",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-cho-lach-tinh-ben-tre-2024"
+            },
+            {
+                "Id": "833",
+                "Name": "Huyện Mỏ Cày Nam",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-mo-cay-nam-tinh-ben-tre-2024"
+            },
+            {
+                "Id": "834",
+                "Name": "Huyện Giồng Trôm",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-giong-trom-tinh-ben-tre-2024"
+            },
+            {
+                "Id": "835",
+                "Name": "Huyện Bình Đại",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-binh-dai-tinh-ben-tre-2024"
+            },
+            {
+                "Id": "836",
+                "Name": "Huyện Ba Tri",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-ba-tri-tinh-ben-tre-2024"
+            },
+            {
+                "Id": "837",
+                "Name": "Huyện Thạnh Phú",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-thanh-phu-tinh-ben-tre-2024"
+            },
+            {
+                "Id": "838",
+                "Name": "Huyện Mỏ Cày Bắc",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-mo-cay-bac-tinh-ben-tre-2024"
+            }
+        ]
+    },
     {
         "Id": "84",
         "Name": "Tỉnh Trà Vinh",
@@ -691,7 +3357,48 @@
                 "Name": "Thành phố Trà Vinh",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-tra-vinh-tinh-tra-vinh-2024"
             },
-          
+            {
+                "Id": "844",
+                "Name": "Huyện Càng Long",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-cang-long-tinh-tra-vinh-2024"
+            },
+            {
+                "Id": "845",
+                "Name": "Huyện Cầu Kè",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-cau-ke-tinh-tra-vinh-2024"
+            },
+            {
+                "Id": "846",
+                "Name": "Huyện Tiểu Cần",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-tieu-can-tinh-tra-vinh-2024"
+            },
+            {
+                "Id": "847",
+                "Name": "Huyện Châu Thành",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-chau-thanh-tinh-tra-vinh-2024"
+            },
+            {
+                "Id": "848",
+                "Name": "Huyện Cầu Ngang",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-cau-ngang-tinh-tra-vinh-2024"
+            },
+            {
+                "Id": "849",
+                "Name": "Huyện Trà Cú",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-tra-cu-tinh-tra-vinh-2024"
+            },
+            {
+                "Id": "850",
+                "Name": "Huyện Duyên Hải",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-duyen-hai-tinh-tra-vinh-2024"
+            },
+            {
+                "Id": "851",
+                "Name": "Thị xã Duyên Hải",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thi-xa-duyen-hai-tinh-tra-vinh-2024"
+            }
+        ]
+    },
     {
         "Id": "86",
         "Name": "Tỉnh Vĩnh Long",
@@ -701,7 +3408,43 @@
                 "Name": "Thành phố Vĩnh Long",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-vinh-long-tinh-vinh-long-2024"
             },
-           
+            {
+                "Id": "857",
+                "Name": "Huyện Long Hồ",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-long-ho-tinh-vinh-long-2024"
+            },
+            {
+                "Id": "858",
+                "Name": "Huyện Mang Thít",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-mang-thit-tinh-vinh-long-2024"
+            },
+            {
+                "Id": "859",
+                "Name": "Huyện  Vũng Liêm",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-vung-liem-tinh-vinh-long-2024"
+            },
+            {
+                "Id": "860",
+                "Name": "Huyện Tam Bình",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-tam-binh-tinh-vinh-long-2024"
+            },
+            {
+                "Id": "861",
+                "Name": "Thị xã Bình Minh",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thi-xa-binh-minh-tinh-vinh-long-2024"
+            },
+            {
+                "Id": "862",
+                "Name": "Huyện Trà Ôn",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-tra-on-tinh-vinh-long-2024"
+            },
+            {
+                "Id": "863",
+                "Name": "Huyện Bình Tân",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-binh-tan-tinh-vinh-long-2024"
+            }
+        ]
+    },
     {
         "Id": "87",
         "Name": "Tỉnh Đồng Tháp",
@@ -711,7 +3454,63 @@
                 "Name": "Thành phố Cao Lãnh",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-cao-lanh-tinh-dong-thap-2024"
             },
-          
+            {
+                "Id": "867",
+                "Name": "Thành phố Sa Đéc",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-sa-dec-tinh-dong-thap-2024"
+            },
+            {
+                "Id": "868",
+                "Name": "Thành phố Hồng Ngự",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-hong-ngu-tinh-dong-thap-2024"
+            },
+            {
+                "Id": "869",
+                "Name": "Huyện Tân Hồng",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-tan-hong-tinh-dong-thap-2024"
+            },
+            {
+                "Id": "870",
+                "Name": "Huyện Hồng Ngự",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-hong-ngu-tinh-dong-thap-2024"
+            },
+            {
+                "Id": "871",
+                "Name": "Huyện Tam Nông",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-tam-nong-tinh-dong-thap-2024"
+            },
+            {
+                "Id": "872",
+                "Name": "Huyện Tháp Mười",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-thap-muoi-tinh-dong-thap-2024"
+            },
+            {
+                "Id": "873",
+                "Name": "Huyện Cao Lãnh",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-cao-lanh-tinh-dong-thap-2024"
+            },
+            {
+                "Id": "874",
+                "Name": "Huyện Thanh Bình",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-thanh-binh-tinh-dong-thap-2024"
+            },
+            {
+                "Id": "875",
+                "Name": "Huyện Lấp Vò",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-lap-vo-tinh-dong-thap-2024"
+            },
+            {
+                "Id": "876",
+                "Name": "Huyện Lai Vung",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-lai-vung-tinh-dong-thap-2024"
+            },
+            {
+                "Id": "877",
+                "Name": "Huyện Châu Thành",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-chau-thanh-tinh-dong-thap-2024"
+            }
+        ]
+    },
     {
         "Id": "89",
         "Name": "Tỉnh An Giang",
@@ -721,7 +3520,58 @@
                 "Name": "Thành phố Long Xuyên",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-long-xuyen-tinh-an-giang-2024"
             },
-           
+            {
+                "Id": "884",
+                "Name": "Thành phố Châu Đốc",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-chau-doc-tinh-an-giang-2024"
+            },
+            {
+                "Id": "886",
+                "Name": "Huyện An Phú",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-an-phu-tinh-an-giang-2024"
+            },
+            {
+                "Id": "887",
+                "Name": "Thị xã Tân Châu",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thi-xa-tan-chau-tinh-an-giang-2024"
+            },
+            {
+                "Id": "888",
+                "Name": "Huyện Phú Tân",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-phu-tan-tinh-an-giang-2024"
+            },
+            {
+                "Id": "889",
+                "Name": "Huyện Châu Phú",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-chau-phu-tinh-an-giang-2024"
+            },
+            {
+                "Id": "890",
+                "Name": "Huyện Tịnh Biên",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-tinh-bien-tinh-an-giang-2024"
+            },
+            {
+                "Id": "891",
+                "Name": "Huyện Tri Tôn",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-tri-ton-tinh-an-giang-2024"
+            },
+            {
+                "Id": "892",
+                "Name": "Huyện Châu Thành",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-chau-thanh-tinh-an-giang-2024"
+            },
+            {
+                "Id": "893",
+                "Name": "Huyện Chợ Mới",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-cho-moi-tinh-an-giang-2024"
+            },
+            {
+                "Id": "894",
+                "Name": "Huyện Thoại Sơn",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-thoai-son-tinh-an-giang-2024"
+            }
+        ]
+    },
     {
         "Id": "91",
         "Name": "Tỉnh Kiên Giang",
@@ -731,7 +3581,78 @@
                 "Name": "Thành phố Rạch Giá",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-rach-gia-tinh-kien-giang-2024"
             },
-           
+            {
+                "Id": "900",
+                "Name": "Thành phố Hà Tiên",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-ha-tien-tinh-kien-giang-2024"
+            },
+            {
+                "Id": "902",
+                "Name": "Huyện Kiên Lương",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-kien-luong-tinh-kien-giang-2024"
+            },
+            {
+                "Id": "903",
+                "Name": "Huyện Hòn Đất",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-hon-dat-tinh-kien-giang-2024"
+            },
+            {
+                "Id": "904",
+                "Name": "Huyện Tân Hiệp",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-tan-hiep-tinh-kien-giang-2024"
+            },
+            {
+                "Id": "905",
+                "Name": "Huyện Châu Thành",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-chau-thanh-tinh-kien-giang-2024"
+            },
+            {
+                "Id": "906",
+                "Name": "Huyện Giồng Riềng",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-giong-rieng-tinh-kien-giang-2024"
+            },
+            {
+                "Id": "907",
+                "Name": "Huyện Gò Quao",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-go-quao-tinh-kien-giang-2024"
+            },
+            {
+                "Id": "908",
+                "Name": "Huyện An Biên",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-an-bien-tinh-kien-giang-2024"
+            },
+            {
+                "Id": "909",
+                "Name": "Huyện An Minh",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-an-minh-tinh-kien-giang-2024"
+            },
+            {
+                "Id": "910",
+                "Name": "Huyện Vĩnh Thuận",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-vinh-thuan-tinh-kien-giang-2024"
+            },
+            {
+                "Id": "911",
+                "Name": "Thành phố Phú Quốc",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-phu-quoc-tinh-kien-giang-2024"
+            },
+            {
+                "Id": "912",
+                "Name": "Huyện Kiên Hải",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-kien-hai-tinh-kien-giang-2024"
+            },
+            {
+                "Id": "913",
+                "Name": "Huyện U Minh Thượng",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-u-minh-thuong-tinh-kien-giang-2024"
+            },
+            {
+                "Id": "914",
+                "Name": "Huyện Giang Thành",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-giang-thanh-tinh-kien-giang-2024"
+            }
+        ]
+    },
     {
         "Id": "92",
         "Name": "Thành phố Cần Thơ",
@@ -741,7 +3662,48 @@
                 "Name": "Quận Ninh Kiều",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-quan-ninh-kieu-thanh-pho-can-tho-2024"
             },
-           
+            {
+                "Id": "917",
+                "Name": "Quận Ô Môn",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-quan-o-mon-thanh-pho-can-tho-2024"
+            },
+            {
+                "Id": "918",
+                "Name": "Quận Bình Thuỷ",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-quan-binh-thuy-thanh-pho-can-tho-2024"
+            },
+            {
+                "Id": "919",
+                "Name": "Quận Cái Răng",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-quan-cai-rang-thanh-pho-can-tho-2024"
+            },
+            {
+                "Id": "923",
+                "Name": "Quận Thốt Nốt",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-quan-thot-not-thanh-pho-can-tho-2024"
+            },
+            {
+                "Id": "924",
+                "Name": "Huyện Vĩnh Thạnh",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-vinh-thanh-thanh-pho-can-tho-2024"
+            },
+            {
+                "Id": "925",
+                "Name": "Huyện Cờ Đỏ",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-co-do-thanh-pho-can-tho-2024"
+            },
+            {
+                "Id": "926",
+                "Name": "Huyện Phong Điền",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-phong-dien-thanh-pho-can-tho-2024"
+            },
+            {
+                "Id": "927",
+                "Name": "Huyện Thới Lai",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-thoi-lai-thanh-pho-can-tho-2024"
+            }
+        ]
+    },
     {
         "Id": "93",
         "Name": "Tỉnh Hậu Giang",
@@ -751,7 +3713,43 @@
                 "Name": "Thành phố Vị Thanh",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-vi-thanh-tinh-hau-giang-2024"
             },
-           
+            {
+                "Id": "931",
+                "Name": "Thành phố Ngã Bảy",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-nga-bay-tinh-hau-giang-2024"
+            },
+            {
+                "Id": "932",
+                "Name": "Huyện Châu Thành A",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-chau-thanh-a-tinh-hau-giang-2024"
+            },
+            {
+                "Id": "933",
+                "Name": "Huyện Châu Thành",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-chau-thanh-tinh-hau-giang-2024"
+            },
+            {
+                "Id": "934",
+                "Name": "Huyện Phụng Hiệp",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-phung-hiep-tinh-hau-giang-2024"
+            },
+            {
+                "Id": "935",
+                "Name": "Huyện Vị Thuỷ",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-vi-thuy-tinh-hau-giang-2024"
+            },
+            {
+                "Id": "936",
+                "Name": "Huyện Long Mỹ",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-long-my-tinh-hau-giang-2024"
+            },
+            {
+                "Id": "937",
+                "Name": "Thị xã Long Mỹ",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thi-xa-long-my-tinh-hau-giang-2024"
+            }
+        ]
+    },
     {
         "Id": "94",
         "Name": "Tỉnh Sóc Trăng",
@@ -761,7 +3759,58 @@
                 "Name": "Thành phố Sóc Trăng",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-soc-trang-tinh-soc-trang-2024"
             },
-           
+            {
+                "Id": "942",
+                "Name": "Huyện Châu Thành",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-chau-thanh-tinh-soc-trang-2024"
+            },
+            {
+                "Id": "943",
+                "Name": "Huyện Kế Sách",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-ke-sach-tinh-soc-trang-2024"
+            },
+            {
+                "Id": "944",
+                "Name": "Huyện Mỹ Tú",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-my-tu-tinh-soc-trang-2024"
+            },
+            {
+                "Id": "945",
+                "Name": "Huyện Cù Lao Dung",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-cu-lao-dung-tinh-soc-trang-2024"
+            },
+            {
+                "Id": "946",
+                "Name": "Huyện Long Phú",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-long-phu-tinh-soc-trang-2024"
+            },
+            {
+                "Id": "947",
+                "Name": "Huyện Mỹ Xuyên",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-my-xuyen-tinh-soc-trang-2024"
+            },
+            {
+                "Id": "948",
+                "Name": "Thị xã Ngã Năm",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thi-xa-nga-nam-tinh-soc-trang-2024"
+            },
+            {
+                "Id": "949",
+                "Name": "Huyện Thạnh Trị",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-thanh-tri-tinh-soc-trang-2024"
+            },
+            {
+                "Id": "950",
+                "Name": "Thị xã Vĩnh Châu",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thi-xa-vinh-chau-tinh-soc-trang-2024"
+            },
+            {
+                "Id": "951",
+                "Name": "Huyện Trần Đề",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-tran-de-tinh-soc-trang-2024"
+            }
+        ]
+    },
     {
         "Id": "95",
         "Name": "Tỉnh Bạc Liêu",
@@ -771,7 +3820,38 @@
                 "Name": "Thành phố Bạc Liêu",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-bac-lieu-tinh-bac-lieu-2024"
             },
-          
+            {
+                "Id": "956",
+                "Name": "Huyện Hồng Dân",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-hong-dan-tinh-bac-lieu-2024"
+            },
+            {
+                "Id": "957",
+                "Name": "Huyện Phước Long",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-phuoc-long-tinh-bac-lieu-2024"
+            },
+            {
+                "Id": "958",
+                "Name": "Huyện Vĩnh Lợi",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-vinh-loi-tinh-bac-lieu-2024"
+            },
+            {
+                "Id": "959",
+                "Name": "Thị xã Giá Rai",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thi-xa-gia-rai-tinh-bac-lieu-2024"
+            },
+            {
+                "Id": "960",
+                "Name": "Huyện Đông Hải",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-dong-hai-tinh-bac-lieu-2024"
+            },
+            {
+                "Id": "961",
+                "Name": "Huyện Hoà Bình",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-hoa-binh-tinh-bac-lieu-2024"
+            }
+        ]
+    },
     {
         "Id": "96",
         "Name": "Tỉnh Cà Mau",
@@ -781,4 +3861,47 @@
                 "Name": "Thành phố Cà Mau",
                 "Post": "khuyen-mai-lap-dat-internet-fpt-tai-thanh-pho-ca-mau-tinh-ca-mau-2024"
             },
-         
+            {
+                "Id": "966",
+                "Name": "Huyện U Minh",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-u-minh-tinh-ca-mau-2024"
+            },
+            {
+                "Id": "967",
+                "Name": "Huyện Thới Bình",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-thoi-binh-tinh-ca-mau-2024"
+            },
+            {
+                "Id": "968",
+                "Name": "Huyện Trần Văn Thời",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-tran-van-thoi-tinh-ca-mau-2024"
+            },
+            {
+                "Id": "969",
+                "Name": "Huyện Cái Nước",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-cai-nuoc-tinh-ca-mau-2024"
+            },
+            {
+                "Id": "970",
+                "Name": "Huyện Đầm Dơi",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-dam-doi-tinh-ca-mau-2024"
+            },
+            {
+                "Id": "971",
+                "Name": "Huyện Năm Căn",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-nam-can-tinh-ca-mau-2024"
+            },
+            {
+                "Id": "972",
+                "Name": "Huyện Phú Tân",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-phu-tan-tinh-ca-mau-2024"
+            },
+            {
+                "Id": "973",
+                "Name": "Huyện Ngọc Hiển",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-huyen-ngoc-hien-tinh-ca-mau-2024"
+            }
+        ]
+    }
+]
+}

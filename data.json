@@ -1616,7 +1616,11 @@
         "Name": "Tỉnh Nghệ An",
         "Districts": [
           
-            
+            {
+                "Id": "427",
+                "Name": "Tỉnh Nghệ An",
+                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-tinh-nghe-an-2024"
+            },
            
             
             
@@ -1630,11 +1634,7 @@
           
           
            
-            {
-                "Id": "427",
-                "Name": "Tỉnh Nghệ An",
-                "Post": "khuyen-mai-lap-dat-internet-fpt-tai-tinh-nghe-an-2024"
-            },
+            
            
            
            
